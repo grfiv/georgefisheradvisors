@@ -1,0 +1,68 @@
+﻿@charset "utf-8";
+
+BODY{margin: 0px; padding: 0px; background: url(graphics/bg.png)}
+DIV, H1, H2, H3, P, A, IMG, UL, LI, INPUT, TEXTAREA, TABLE, TR, TD{color: #807860; font-family: georgia, serif; line-height: 17px; margin: 0px; padding: 0px; border: none; list-style-type: none}
+H1{height: 74px; background: url(graphics/header.png) no-repeat center bottom}	
+H1 span, H2 span, H3 span{display: none}
+P.content{font-size: 12px;text-align: justify; padding: 0px 0px 14px 0px}	
+P.content A{font-size: 12px}	
+P.content A:hover{color: #564928}	
+
+/************************* Common Classes *******************/
+.preload{width: 1px; height: 1px; overflow: hidden; position: absolute; left: -5000px; top: -5000px}	
+.italic{font-style: italic}	
+.dark{color: #665938}
+.sup{font-size: 11px}
+
+/************************* Structure *******************/
+#container{width: 100%; position: absolute; left: 0px; top: 70px; border-top: solid 1px #e2d3b2; background: #fafaf0}
+#content-top{width: 100%; height: 30px; background: url(graphics/sprite.png) no-repeat center -995px}
+#content-inner{width: 640px; position: relative; left: 50%; top: 30px; margin: 0px 0px 0px -320px}
+#content-inner-bg{border: solid 1px #ddcba6; background: #fafaf0}
+#content-bottom{width: 100%; height: 25px; background: url(graphics/sprite.png) no-repeat center -1335px}
+
+/************************* Left Nav *******************/
+#nav{width: 210px; position: absolute; margin: 0px 0px 0px -121px}
+#nav UL{width: 172px; margin: 20px 0px 0px 0px; border-top: solid 1px #e8d9b8}
+#nav UL LI{width: 170px; float: left; border: solid 1px #e8d9b8; border-top: none; background: #fafaf0}
+#nav UL LI A{width: 168px; height: 30px; display: block; border: solid 1px #fff; background: url(graphics/sprite.png) no-repeat left -300px}
+#nav UL LI A span{display: none}
+#nav UL LI A.link-fp{background-position: 0px -333px}
+#nav UL LI A.link-ip{background-position: 0px -366px}
+#nav UL LI A.link-pm{background-position: 0px -399px}
+#nav UL LI A.link-experience{background-position: 0px -432px}
+#nav UL LI A.link-about{background-position: 0px -465px}
+#nav UL LI A.link-contact{background-position: 0px -498px}
+#nav UL LI A.link-home-active{background-position: 0px -528px}
+
+/************************* Left Nav - active *******************/
+#nav UL LI A.link-fp-active{background-position: 0px -561px}
+#nav UL LI A.link-ip-active{background-position: 0px -594px}
+#nav UL LI A.link-pm-active{background-position: 0px -627px}
+#nav UL LI A.link-experience-active{background-position: 0px -660px}
+#nav UL LI A.link-about-active{background-position: 0px -693px}
+#nav UL LI A.link-contact-active{background-position: 0px -726px}
+
+/************************* Left Nav - hover *******************/
+#nav UL LI A.link-home:hover{background-position: 0px -756px}
+#nav UL LI A.link-fp:hover{background-position: 0px -789px}
+#nav UL LI A.link-ip:hover{background-position: 0px -822px}
+#nav UL LI A.link-pm:hover{background-position: 0px -855px}
+#nav UL LI A.link-experience:hover{background-position: 0px -888px}
+#nav UL LI A.link-about:hover{background-position: 0px -921px}
+#nav UL LI A.link-contact:hover{background-position: 0px -954px}
+
+/************************* Menu Bottom *******************/
+#menu-bottom{text-align: center; width: 535px; margin: 7px 0px 0px 62px; padding: 16px 0px 23px 0px; border-top: solid 1px #e8d9b8}
+#menu-bottom P, #menu-bottom A{font-family: 'Trebuchet MS',Tahoma,Verdana,sans-serif; color: #484038; font-size: 11px; line-height: 15px}
+
+/************************* Footer *******************/
+P.legal{color: #887858; font-family: arial, tahoma, sans-serif; font-size: 11px; line-height: 11px; text-align: right; padding: 7px 5px 5px 0px}
+P.legal A{color: #887858; font-family: arial, sans-serif; font-size: 11px}
+P.legal A:hover{color: #584828}
+
+
+
+
+
+

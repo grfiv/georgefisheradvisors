@@ -1,0 +1,199 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Andrew Brundle | Website Design | Bangkok; Europe &amp; the USA</title>
+
+	<meta name="Title" content="Andrew Brundle | Website Design | Bangkok; Europe &amp; the USA" />
+	<meta name="DC.Title" content="Andrew Brundle | Website Design | Bangkok; Europe &amp; the USA" />
+
+	<meta name="description" content="Andrew Brundle | Website Design | Bangkok; Europe &amp; the USA" />
+	<meta name="DC.description" content="Andrew Brundle | Website Design | Bangkok; Europe &amp; the USA" />
+	<meta name="keywords" content="Website Design, Bangkok, Andrew Brundle" />
+
+	<meta http-equiv="content-script-type" content="text/javascript" />
+	<meta http-equiv="content-style-type" content="text/css" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<meta http-equiv="imagetoolbar" content="no" />
+
+	<meta name="distribution" content="global" />
+	<meta name="Locale" content="EN-US" />
+	<meta name="language" content="EN" />
+	<meta name="DC.language" content="en" scheme="RFC1766" />
+	<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+	<meta name="author" content="George R. Fisher, IV" />
+	<meta name="Designer" content="Andrew Brundle" />
+	<meta name="DC.Creator" content="Fisher IV, George" />
+
+	<meta name="copyright" content="(c) 2004 - 2009 George R. Fisher IV All Rights Reserved." />
+	<meta name="doc-rights" content="Copywritten Work" />
+
+	<meta name="rating" content="GENERAL" />
+	<meta name="resource-type" content="document" />
+	
+	<link rel="stylesheet" type="text/css" href="main.css" />
+	
+	<style type="text/css">
+		#content{width: 100%; padding: 0px 0px 45px 0px; background: url(graphics/bg-content-horizontal.png) repeat-y center}
+		#margin-bottom{height: 40px; background: url(graphics/bg-container-vertical.png) repeat-x 0px -440px}		
+		#andrew{width: 305px; min-height: 240px; padding: 25px 0px 15px 75px}
+		H2{width: 305px; height: 16px; margin: 0px 0px 10px 0px; background: url(graphics/sprite.png) no-repeat -250px -181px}
+		P.content{font-size: 11px; line-height: 14px; padding: 0px 0px 12px 0px}
+		#andrew A{font-size: 11px; line-height: 15px}
+		#andrew A:hover{color: #807860}		
+		#books-main{width: 227px; height: 235px; position: absolute; left:398px; top: 20px}
+		#button-back, #button-forward{width: 20px; height: 44px; float: left; margin: 96px 0px 0px 0px; cursor: pointer; background: url(graphics/sprite.png) no-repeat -500px -350px}
+		#button-forward{background-position:  -520px -350px}
+		#books-outer{width: 175px; height: 235px; float: left; overflow: hidden; border: solid 1px #d8c8a8; border-top: none; border-bottom: none; margin: 0px 5px 0px 5px; background: url(graphics/throbber.gif) no-repeat 80px 110px}
+		#books{width: 875px; height: 235px; background: url(graphics/books.jpg) repeat-x 0px 0px}	
+	</style>		
+	
+	<!--[if lte IE 6]><style type="text/css">#andrew{height: 240px}</style><![endif]-->	
+	
+	<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+	
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	
+		var active_flag=0
+		var scroll_distance=175
+		var actual_scroll=0
+		var actual_position=0 // ie, start position
+		var increment=20
+		var deceleration=1
+		var threshhold=scroll_distance-16
+
+		function init()
+		{
+			document.getElementById('button-back').onclick=function(){move(0)}
+			document.getElementById('button-forward').onclick=function(){move(1)}	
+		}
+
+		function move(direction)
+		{	
+			if (active_flag==0)
+			{
+				active_flag=1
+				actual_scroll=0
+				scroll(direction)
+			}
+		}
+
+		function scroll(direction)
+		{
+			if (actual_scroll<scroll_distance)
+			{	
+				if (actual_scroll>threshhold)
+				{
+					actual_scroll+=deceleration
+					direction==1?actual_position+=deceleration:actual_position-=deceleration
+					scrollB(direction)
+				}		
+				else 
+				{
+					actual_scroll+=increment
+					direction==1?actual_position+=increment:actual_position-=increment
+					scrollB(direction)
+				}
+			}
+			else 
+			{
+				active_flag=0	
+			}		
+		}
+
+		function scrollB(direction)
+		{
+			document.getElementById('books').style.backgroundPosition=actual_position+'px 0px'
+			setTimeout('scroll('+direction+')',0)	
+		}
+
+		window.onload=init
+		
+	/* ]]> */
+	</script>
+		
+</head>
+<body>
+	<div id="container">
+		<h1>
+			<span>George Fisher Advisors LLC</span>
+		</h1>
+		<div id="content-top"></div>
+		<div id="content">
+			<div id="content-inner">
+				<div id="content-inner-bg">		
+					<div id="nav">
+						<ul>
+							<li><a class="link-home" href="index.html"><span>Home</span></a></li>
+							<li><a class="link-fp" href="financial-planning.html"><span>Financial Planning</span></a></li>  
+							<li><a class="link-ip" href="investment-planning.html"><span>Investment Planning</span></a></li> 
+							<li><a class="link-pm" href="portfolio-management.html"><span>Portfolio Management</span></a></li>
+							<li><a class="link-experience" href="experience.html"><span>Experience</span></a></li> 
+							<li><a class="link-about" href="about.html"><span>About</span></a></li> 
+							<li><a class="link-contact" href="contact.html"><span>Contact</span></a></li>
+						</ul>
+					</div>
+					
+					<div id="books-main">
+						<div id="button-back"></div>
+						<div id="books-outer"><div id="books"></div></div>
+						<div id="button-forward"></div>
+					</div>
+					
+					<div id="andrew">
+						<h2>
+							<span>Brundle Website Design Bangkok</span>
+						</h2>
+						<p class="content">
+							 This website was designed by <a href="http://www.andrew-brundle.com">Andrew Brundle</a>, an English website designer who lives in Bangkok.
+						</p>
+						<p class="content">
+							Andrew is the creator of the <strong><span class="italic">Mozart</span></strong> design on the CSS Zen Garden, which is where I first encountered his work. 
+						</p>
+						<p class="content">
+							Andrew&#8217;s work also features in a number of leading publications, a few of which may be browsed on the right. His work is esteemed for both its originality and its strict adherence to web standards.
+						</p>
+						<p class="content">
+							 I feel quite lucky that Andrew agreed to design this website and I think his skill is evident throughout. 
+						</p>						
+					</div>				
+				</div> 
+				<div id="legal">
+					<p class="legal">
+						copyright &copy; George Fisher Advisors 2005 - 2009
+							|
+						<a class="legal" href="disclaimer.html">disclaimer</a>
+							|
+						<a class="legal" href="sitemap.html">sitemap</a>
+							| website by
+						<a class="legal" href="andrew.html">andrew brundle</a>
+					</p>
+				</div>
+			</div>
+		</div>
+		<div id="content-bottom"></div>
+		<div id="margin-bottom"></div>
+	</div>
+	
+	<!-- Start of StatCounter Code -->
+	<script type="text/javascript">
+	//<![CDATA[
+  	sc_project=1770955; 
+  	sc_invisible=1; 
+  	sc_partition=16; 
+  	sc_security="fb8cf3f2"; 
+	//]]>
+	</script>
+	<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js">
+	</script>
+	<noscript>
+	  <div class="statcounter">
+    	<a title="site stats" class="statcounter" href="http://www.statcounter.com/free_web_stats.html">
+      	<img class="statcounter" src="http://c17.statcounter.com/1770955/0/fb8cf3f2/1/" alt="site stats" /></a>
+  	</div>
+	</noscript>
+	<!-- End of StatCounter Code -->
+
+</body>
+</html>

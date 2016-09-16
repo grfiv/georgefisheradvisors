@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /errors/
+Disallow: /joericketts/
+Disallow: /margaret/
+Disallow: /cache/
+Disallow: /styles/
+Disallow: /scripts/
+Sitemap: http://www.georgefisheradvisors.com/sitemap.xml

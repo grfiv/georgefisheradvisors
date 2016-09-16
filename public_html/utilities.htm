@@ -1,0 +1,582 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Strict//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en'>
+
+<head>
+
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type"  content="text/css" />
+
+<meta http-equiv="imagetoolbar"        content="no" />
+
+<title>Financial Planning Utilities</title>
+
+<meta name="title"          content="Financial Planning Utilities" />
+<meta name="DC.Title"       content="Financial Planning Utilities" />
+
+<meta name="keywords"       content="portfolio rebalancing, spreadsheet, asset allocation, cash management, taxable money market, muni, tax-free money market" />
+
+<meta name="description"    content="Several useful utilities to help the self-directed investor optimize a portfolio" />
+<meta name="DC.description" content="Several useful utilities to help the self-directed investor optimize a portfolio" />
+
+<meta name="author"         content="George R. Fisher, IV" />
+<meta name="designer"       content="George R. Fisher, IV" />
+<meta name="DC.Creator"     content="Fisher IV, George R." />
+<meta name="robots"         content="all" />
+<meta name="revisit-after"  content="5 days" />
+<meta name="distribution"   content="global" />
+<meta name="Locale"         content="EN-US" />
+<meta name="language"       content="EN" />
+<meta name="copyright"      content="(c) 2004 - 2008 George Fisher Advisors LLC. All Rights Reserved." />
+<meta name="doc-rights"     content="Copywritten Work" />
+<meta name="rating"         content="GENERAL" />
+<meta name="resource-type"  content="document" />
+
+<meta name="DC.language"    content="en" scheme="RFC1766" />
+
+<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+
+<!-- Site structure     -->
+
+<link rel="author"	      href="http://www.georgefisheradvisors.com/contact.html" />
+<link rel="index"	        href="http://www.georgefisheradvisors.com/" />
+<link rel="up"  		      href="http://www.georgefisheradvisors.com/assetalloc.php" />
+<link rel="start"	        href="http://www.georgefisheradvisors.com/" />
+
+<!-- Dublin Core    -->
+
+<link rel="schema.DC"     href="http://purl.org/DC/elements/1.0/" />
+
+<link rel="shortcut icon" type="image/x-icon" href="http://www.georgefisheradvisors.com/favicon.ico" />
+<link rel="icon"          type="image/x-icon" href="http://www.georgefisheradvisors.com/favicon.ico" />
+
+<link rel="alternate"     type="application/rss+xml"  title="RSS 2.0"  href="http://www.georgefisheradvisors.com/rss.xml"  />
+<link rel="alternate"     type="application/atom+xml" title="Atom 1.0" href="http://www.georgefisheradvisors.com/atom.xml" />
+
+<!-- CSS Stylesheets     -->
+
+<style type="text/css">
+
+body { 
+  padding: 0;
+  border:  0;
+  margin:  0;
+  outline: 0;
+
+  background-color: #fafaf0;
+
+  color:          black; 
+  line-height:    1.6em;
+  letter-spacing: normal;
+  word-spacing:   normal;
+  text-align:     left;   /* rignt center justify */
+
+  font-style:    normal;   /* italic oblique */
+  font-variant:  normal;   /* small-caps */
+  font-size:     12pt;
+  font-weight:   normal;   /* bold bolder lighter */
+  font-family:   Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+/* ****************************** header ************************************************ */ 
+
+#volume #header	  {display: none;}
+
+#header {
+  display:     block;
+  background:  #ccc;
+  height:      15px;
+  width:       1000px;
+  margin:      0 auto;
+  line-height: 1em;
+  border:      1px solid black;
+}
+
+#header a {
+  display:         block;
+  color:           black;
+  font-weight:     lighter;
+  text-decoration: none;
+  font-weight:     bold;
+  font-size:       8pt;
+  padding-left:    353px;
+}
+
+#header a[href]:after {content: ": Tourist Walk in Olde Philadelphia";}
+
+@media print { #header {display:none;} }
+
+/* *************************** END header ************************************************ */
+
+
+/* *.*.*.*.*.*.*.*.*.*.*.*.*.* content  *.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.* */
+/* contains #title-description #blurb #toc and #extendedtopic  */
+/* ..........................................................  */
+
+#content {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#content .clear {
+	clear: both;
+}
+
+
+/* ************************* title-description ******************************************* */
+/* contains the main banner of the page */
+
+#title-description {
+	margin-bottom: 20px;
+	margin-top:    10px;
+	border-bottom: 3px solid #ccc;
+}
+
+#title-description .title {
+	float:          left;
+	width:          300px;
+	padding-right:  20px;
+	padding-bottom: 20px;
+	border-right:   1px solid #C6DAC7;
+	
+	text-align:     right;
+	line-height:    1.2em;
+	font-size:      2.2em;
+	font-family:   "Franklin Gothic Medium", sans-serif;
+}
+
+#title-description .description {
+	float:        right;
+	width:        650px;
+	padding-left: 20px;
+	padding-top:  20px;
+	
+	font-family:  Verdana, sans-serif;
+	font-size:    14.5pt;
+}
+
+/* ............ #volume #title-description .........start..................... */
+
+#volume #title-description {
+  background:  #fff url(/images/ColonialStreetScene.jpg) no-repeat center left;
+  min-height:  250px;
+  border:      3px ridge #000;
+}
+
+#volume #title-description .title {
+  margin:     0; 
+  padding:    20px 10px 0 0; 
+  border:     0;
+  float:      right;
+  text-align: left;
+  width:      640px;
+
+  font-size:  28pt;
+}
+
+#volume #title-description .description {
+  margin:     0; 
+  padding:    20px 10px 0 0; 
+  border:     0;
+  float:      right;
+  text-align: left;
+  width:      640px;
+}
+
+/* ............ #volume #title-description .........end..................... */
+
+
+#blog #title-description .description img {display: none;}
+
+#title-description .clear {
+	clear: both; 
+	height: 1px;
+	}
+
+/* ********************* END title-description ******************************************* */
+
+
+/* ****************************** blurb ************************************************** */
+/* contains the basic text of the page */
+
+#blurb {
+  float:       right;
+  width:       650px;
+  padding-top: 2px; /* for the large caps in IE */
+}
+
+#volume #blurb {background-color: white;}
+
+#blog #blurb {
+	width:         960px;
+	padding-right: 20px;
+	padding-left:  20px;
+}
+
+#extended #blurb {
+	width:         960px;
+	padding-right: 20px;
+	padding-left:  20px;
+}
+
+#blurb p {
+	text-align:    justify;
+	font-size:     13pt;
+        padding-right: 6px;
+}
+
+#blurb p:first-letter {font-size:xx-large;}
+
+/* ************************** END blurb ************************************************** */
+
+
+/* ****************************** toc **************************************************** */
+/* contains the table of contents */
+/* the trick to getting the description to appear is
+   the #toc li a:hover span {display:block;} command
+   which makes the previously hidden text appear      */
+
+#toc {
+	float: left;
+	width: 280px;
+}
+
+#blog       #toc {display: none;}
+
+#extended   #toc {display: none;}
+
+#toc ul, li {
+  margin:          0;
+  padding:         0;
+  list-style-type: none;
+}
+
+#toc li {
+  cursor:      pointer;
+  margin:      4px 0;
+  text-align:  center;
+  min-height:  2em;
+  border:      1px solid gray;
+  font-family: Verdana, sans-serif; font-size: 9pt; font-weight: bold; color: black;
+  background:  #ccc;
+}
+
+#toc .numbered {
+  text-align:  left;
+  border:      none;
+  background:  transparent;
+  font-weight: normal;
+  margin:      0;
+  padding:     0;
+}
+
+#volume #toc li {background: #fff; border: 3px ridge #000;}
+
+#toc li a {
+  text-decoration: none; 
+  color:           black;
+  display:         block;
+  line-height:     1.5em;
+}
+ 
+#toc li a span {
+  border:           1px solid gray;
+  background-color: white;
+  font-family:      Verdana, sans-serif; font-size: 10pt; font-weight: normal; color: black;
+  line-height:      1.4em;
+  text-align:       justify;
+  padding:          5px;
+  display:          none; /* initially hide the contents of the <span>        */
+}
+
+#volume #toc li a span {display: block; border: 0;}   /* show the contents of the <span> for volumes */
+
+#toc li a:hover span {display:block;} /* display the contents of the <span> when hovering, ie., open the box */
+
+#toc .extended {display:none; margin-top:10px;}
+
+#topic #toc .extended      {display:block; background: #fff;}
+
+#topic #toc .extended a    {color:#6F0000;}
+
+@media print { #topic #toc .extended {display:none;} }
+
+/* ************************** END toc **************************************************** */
+
+
+
+/* ************************* extendedtopic  ********************************************** */
+
+#extendedtopic h2 {page-break-before: always;}
+
+#extendedtopic {
+	width:         960px;
+	padding-right: 20px;
+	padding-left:  20px;
+}
+
+#extendedtopic p {
+	text-align:    justify;
+	font-size:     13pt;
+        padding-right: 6px;
+}
+
+/* ********************* END extendedtopic  ********************************************** */
+
+
+/* *.*.*.*.*.*.*.*.*.*.*.*END content  *.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.*.* */
+
+
+/* Menu 
+   ............................................................................ */
+/* contains the menu bar across the bottom of the page */
+
+#menu {
+	width:      700px;
+	height:     40px;
+	margin:     0 auto;
+	background: #fff;
+	border:     1px solid #000;
+        font-size:  8pt;
+}
+
+#menu ul {
+	margin:     0;
+	padding:    0;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display:         block;
+	float:           left;
+	height:          32px;
+	padding:         8px 20px 0 20px;
+	border-right:    1px solid #235324;
+	text-decoration: none;
+	font-weight:     bold;
+        color:           black;
+}
+
+#menu a:hover {
+	background: #DAEBDB;
+}
+
+#menu #rss a {
+	float:        right;
+	padding-left: 30px;
+	background:   url(../images/rss.gif) no-repeat 10px 50%;
+	border:       none;
+}
+
+#menu #rss a:hover {
+	background-color: #DAEBDB;
+}
+
+@media print { #menu {display:none;} }
+
+/* Footer 
+   ............................................................................ */
+/* contains the copyright information and Statcounter code */
+
+#footer {
+}
+
+#footer p {
+	text-align: center;
+	font-size:  x-small;
+	color:      #000000;
+}
+
+#footer a {
+	color: #000000;
+}
+
+@media print { #footer {display:none;} }
+
+</style>
+
+</head>
+
+<body id="topic">
+
+    
+
+    <div id="content">
+
+      <div id="title-description">
+        <h2 class="title">Financial Planning Utilities</h2>
+          <p class="description">
+            Useful tools for the self-directed individual investor.</p>
+          <div class="clear"></div>
+      </div>
+      <!-- end #title-description -->
+
+      <div id="blurb">
+        <p>
+          The article <span style="font-style: italic;">
+		      <a href="http://www.georgefisheradvisors.com/assetalloc.php" onclick="window.open(this.href); return false;">Asset Allocation and Portfolio Rebalancing</a></span> 
+		      is an extensive description of how the individual investor should build 
+		      and manage their own portfolio.
+		    </p>
+		
+		    <p>
+		      The article refers to a number of online 
+		      spreadsheets that can be used in this process.
+		    </p>
+
+      </div>
+      <!-- end #blurb -->
+
+      <div id="toc" style="width: 300px; ">
+      
+        <p style="text-align: center; margin: 0;">Portfolio Rebalancing</p>
+        <ul>
+
+          <li><a href="http://www.georgefisheradvisors.com/portfolio-rebalance/portfolio-rebalance.htm" onclick="window.open(this.href); return false;">Rebalancing Spreadsheet
+                <span>
+                This spreadsheet contains all the securities in the model portfolio
+                <ol>
+                  <li class="numbered">1. Enter the allocation percentages</li>
+                  <li class="numbered">2. Enter the value of each position</li>
+                  <li class="numbered">3. Enter the prices
+                    <ol>
+                      <li class="numbered">Ask to buy</li>
+                      <li class="numbered">Bid to sell</li>
+                    </ol>
+                  </li>
+                </ol>
+                </span>
+              </a>
+          </li>
+
+          <li><a href="http://www.georgefisheradvisors.com/portfolio-rebalance-fewest/portfolio-rebalance-fewest.htm" onclick="window.open(this.href); return false;">Rebalance with the Fewest Securities
+                <span>
+                For the investor who wants to maintain the fewest securities and also for the investor with a complex
+                portfolio who wants to rebalance based on broad asset classes rather than security by security.
+                </span>
+              </a>
+          </li>
+          
+         </ul>
+         
+         <hr />
+         
+         <p style="text-align: center; margin: 0; ">Where to put your cash</p>
+         
+         <ul>
+
+          <li><a href="http://www.georgefisheradvisors.com/cash-choices/cash-choices.htm" onclick="window.open(this.href); return false;">Money Market Choices
+                <span>
+                  A list of choices for your cash <br /><br />
+                    <ol>
+                      <li class="numbered">- Muni-State funds are generally exempt from both Federal and State taxes <br /><br /></li>
+                      <li class="numbered">- Muni-Non-State funds are not specific to a particular state so they are exempt 
+                                             from Federal but not necessarily from State taxes<br /><br /></li>
+                      <li class="numbered">- Government bonds are usually exempt from State taxes<br /><br /></li>
+                      <li class="numbered">- Taxable funds are subject to both Federal and State taxes<br /><br /></li>
+                    </ol>
+                  AMT needs to be considered in muni funds
+                </span>
+              </a>
+          </li>
+
+          <li><a href="http://www.georgefisheradvisors.com/cash/cash.htm" onclick="window.open(this.href); return false;">Muni, Government or Taxable?
+                <span>
+                  Your tax rates determine whether you are better off, after tax, putting you money into taxable or tax-free funds.
+                  <br /><br />
+                  Using the yields you found in <b>"Money Market Choices"</b>, above, 
+                  and your marginal tax rates you can determine which is best for you.
+                </span>
+              </a>
+          </li>
+          
+         </ul>
+         
+         <hr />
+         
+         <p style="text-align: center; margin: 0; ">Portfolio Accumulation</p>
+         
+         <ul>
+
+          <li><a href="http://www.georgefisheradvisors.com/capneed/index.htm" onclick="window.open(this.href); return false;">Retirement Needs
+                <span>
+                  This <b>Capital Needs Analysis</b> will tell you how large a portfolio you need to 
+                  accumulate to retire and live off the proceeds
+                </span>
+              </a>
+          </li>
+          
+
+          <li><a href="http://www.georgefisheradvisors.com/college-fund/college-fund.htm" onclick="window.open(this.href); return false;">School Savings Calculator
+                <span>
+                  Figure out how much to put away for the kids' school
+                </span>
+              </a>
+          </li>
+
+        </ul>
+         
+         <hr />
+         
+         <p style="text-align: center; margin: 0; ">Substitute Options for Market Orders</p>
+         
+         <ul>
+
+          <li><a href="http://www.georgefisheradvisors.com/calc/buying/buying.htm" onclick="window.open(this.href); return false;">To Buy
+                <span>
+                  Writing a Put Option to BUY Shares That You Want To Own
+                </span>
+              </a>
+          </li>
+          
+          <li><a href="http://www.georgefisheradvisors.com/calc/selling/selling.htm" onclick="window.open(this.href); return false;">To Sell
+                <span>
+                  Writing a Call Option to SELL Shares That You Own
+                </span>
+              </a>
+          </li>
+
+        </ul>
+        
+      </div>
+      <!-- end #toc -->
+
+      <div class="clear">&nbsp;</div>
+
+    </div>
+    <!-- end #content -->
+    
+    
+      <div style="margin-left: auto; margin-right: auto; width: 30em;">
+				<p style="font-size: 75%;">
+					copyright &copy; George Fisher Advisors 2004 - 2008
+					 |
+					<a class="legal" href="http://www.georgefisheradvisors.com/disclaimer.html">disclaimer</a>
+				</p>
+			</div>
+
+		<!-- Start of StatCounter Code -->
+		<script type="text/javascript">
+			var sc_project=1770955; 
+			var sc_invisible=1; 
+			var sc_partition=16; 
+			var sc_security="fb8cf3f2"; 
+		</script>
+
+		<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+		<noscript>
+		  <div class="statcounter">
+		    <a class="statcounter" href="http://www.statcounter.com/">
+		      <img class="statcounter" src="http://c17.statcounter.com/counter.php?sc_project=1770955&amp;java=0&amp;security=fb8cf3f2&amp;invisible=0" alt="web hit counter" />
+		    </a>
+		  </div>
+		</noscript>
+
+		<!-- End of StatCounter Code -->
+		
+</body>
+</html>

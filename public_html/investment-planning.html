@@ -1,0 +1,314 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Investment Planning | CFP | Boston | George Fisher Advisors LLC</title>
+
+	<meta name="Title" content="Investment Planning | George Fisher Advisors LLC" />
+	<meta name="DC.Title" content="Investment Planning | George Fisher Advisors LLC" />
+
+	<meta name="description" content="Financial Planning, Family Office Management, Investment Management" />
+	<meta name="DC.description" content="Financial Planning, Family Office Management, Investment Management" />
+	<meta name="abstract" content="Registered Investment Advisor Company" />
+	<meta name="keywords" content="RIA, CFP, Registered Investment Advisor, Certified Financial Planner, Financial Planning, Financial Advice, Investment Management, Investment Advice" />
+	
+	<!-- geo tags for 5 Constellation Wharf, Boston MA 02129 -->
+	<meta name="ICBM" content="42.3733, -71.049" />
+	<meta name="geo.country" content="US" />
+	<meta name="geo.region" content="US-MA" />
+	<meta name="geo.placename" content="George Fisher Advisors LLC" />
+	<meta name="geo.position" content="42.3733; -71.049" />
+
+	<meta name="tgn.name" content="George Fisher Advisors LLC" />
+	<meta name="tgn.nation" content="United States" />
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-script-type" content="text/javascript" />
+	<meta http-equiv="content-style-type" content="text/css" />
+
+	<meta http-equiv="imagetoolbar" content="no" />
+
+	<meta name="distribution" content="global" />
+	<meta name="Locale" content="EN-US" />
+	<meta name="language" content="EN" />
+	<meta name="DC.language" content="en" scheme="RFC1766" />
+	<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+	<meta name="author" content="George R. Fisher, IV" />
+	<meta name="Designer" content="Andrew Brundle" />
+	<meta name="DC.Creator" content="Fisher IV, George" />
+
+	<meta name="copyright" content="(c) 2004 - 2009 George R. Fisher IV All Rights Reserved." />
+	<meta name="doc-rights" content="Copywritten Work" />
+
+	<meta name="rating" content="GENERAL" />
+	<meta name="resource-type" content="document" />
+	
+	<link rel="stylesheet" type="text/css" href="main.css" />	
+	
+	<style type="text/css">
+		#content{width: 100%; padding: 0px 0px 45px 0px; background: url(graphics/bg-content-horizontal.png) repeat-y center}
+		#margin-bottom-long{height: 90px; background: url(graphics/bg-container-vertical.png) repeat-x 0px -440px}	
+		#menu-bottom{margin: 5px 0px 0px 60px}
+		#investment-planning{width: 505px; padding: 25px 0px 0px 75px}
+		H2, H3{width: 505px; height: 19px; margin: 0px 0px 10px 0px; background: url(graphics/sprite.png) no-repeat -250px -57px}
+		H3{height: 16px; margin: 10px 0px 9px 0px; background-position: -250px -165px}
+		#ip-nav{width: 505px; height: 20px; margin: 8px 0px 12px 0px; background: url(graphics/sprite.png) no-repeat -250px -500px}
+		#button-chart-one, #button-chart-two{width: 208px; height: 20px; float: left; cursor: pointer; margin: 0px 12px 0px 0px}
+		#button-chart-two{width: 273px; margin: 0px}
+		#chart{width: 503px; height: 220px; display: none; border: solid 1px #e8d9b8; margin: 0px 0px 15px 0px; padding: 15px 0px 20px 0px; position: relative; overflow: hidden; background: #fff url(graphics/throbber.gif) no-repeat 238px 120px}
+		#charts{width: 1026px; height: 220px; position: relative}
+		#chart-one, #chart-two{width: 503px; height: 220px; float: left; margin: 0px 20px 0px 0px}
+		#chart-two{margin: 0px}		
+	</style>	
+	
+	<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+	
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	
+		var chart_1 = new Array()
+		// asset class, percentage
+		chart_1[0]=Array('US Total Market','20')
+		chart_1[1]=Array('Europe Developed','10')
+		chart_1[2]=Array('Asia Developed','10')
+		chart_1[3]=Array('Emerging Mkts','10')
+		chart_1[4]=Array('REITs','10')
+		chart_1[5]=Array('Commodities','10')
+		chart_1[6]=Array('TIPs','15')
+		chart_1[7]=Array('Long Treasuries','15')
+			
+		var chart_2 = new Array()
+		// asset class, percentage
+		chart_2[0]=Array('Cash','20')
+		chart_2[1]=Array('US Total Market','16')
+		chart_2[2]=Array('Europe Developed','8')
+		chart_2[3]=Array('Asia Developed','8')
+		chart_2[4]=Array('Emerging Mkts','8')
+		chart_2[5]=Array('REITs','8')
+		chart_2[6]=Array('Commodities','8')
+		chart_2[7]=Array('TIPs','12')
+		chart_2[8]=Array('Long Treasuries','12')	
+	
+		// do not edit below this point
+		function getChart(chart,div)
+		{
+			img_str='<img src="http://chart.apis.google.com/chart?chs=503x220&amp;chd=t:'
+			img_percentage_str=''
+			for(var i=0;i<chart.length;i++)
+			{
+				i==0?img_str+='':img_str+=','
+				img_str+=chart[i][1]
+				i==0?img_percentage_str+='':img_percentage_str+='|'
+				img_percentage_str+=chart[i][0]+': '+chart[i][1]+'%'
+			}
+			img_str+='&amp;cht=p&amp;chl='
+			img_str+=img_percentage_str			
+			img_str+='&amp;chco=FB722E" alt="" />'	
+			document.getElementById(div).innerHTML=img_str
+		}
+		
+		var active_flag=0
+		var scroll_distance=525
+		var actual_scroll=0
+		var actual_position=0
+		var increment=25
+		var deceleration=1
+		var threshhold=499
+		var chart_one='true'
+
+
+		function init()
+		{
+			document.getElementById('button-chart-one').onclick=function(){move(1)}
+			document.getElementById('button-chart-two').onclick=function(){move(0)}
+		}
+
+		function move(direction)
+		{	
+			if (active_flag==0)
+			{
+				if ((chart_one=='true' && direction==0) || (chart_one=='false' && direction==1))
+				{
+					active_flag=1
+					actual_scroll=0
+					var nav_pos=document.getElementById('ip-nav').style
+					chart_one=='true'?nav_pos.backgroundPosition='-250px -520px':nav_pos.backgroundPosition='-250px -500px'
+					chart_one=='true'?chart_one='false':chart_one='true'
+					scroll(direction)
+				}
+			}
+		}
+
+		function scroll(direction)
+		{
+			if (actual_scroll<scroll_distance)
+			{	
+				if (actual_scroll>threshhold)
+				{
+					actual_scroll+=deceleration
+					direction==1?actual_position+=deceleration:actual_position-=deceleration
+					scrollB(direction)
+				}		
+				else 
+				{
+					actual_scroll += increment
+					direction==1?actual_position+=increment:actual_position-=increment
+					scrollB(direction)
+				}
+			}
+			else 
+			{
+				active_flag=0
+			}		
+		}
+
+		function scrollB(direction)
+		{
+			document.getElementById('charts').style.left=actual_position+'px'
+			setTimeout('scroll('+direction+')',0)	
+		}
+
+		window.onload=init		
+		
+	/* ]]> */
+	</script>	
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-18872642-1']);
+          _gaq.push(['_trackPageview']);
+
+      (function() {
+                  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                  })();
+
+    </script>
+		
+</head>
+<body>
+	<div id="container">
+		<h1>
+			<span>George Fisher Advisors LLC</span>
+		</h1>
+		<div id="content-top"></div>
+		<div id="content">
+			<div id="content-inner">
+				<div id="content-inner-bg">		
+					<div id="nav">
+						<ul>
+							<li><a class="link-home" href="index.html"><span>Home</span></a></li>
+							<li><a class="link-fp" href="financial-planning.html"><span>Financial Planning</span></a></li>  
+							<li><a class="link-ip-active" href="investment-planning.html"><span>Investment Planning</span></a></li> 
+							<li><a class="link-pm" href="portfolio-management.html"><span>Portfolio Management</span></a></li>
+							<li><a class="link-experience" href="experience.html"><span>Experience</span></a></li> 
+							<li><a class="link-about" href="about.html"><span>About</span></a></li> 
+							<li><a class="link-contact" href="contact.html"><span>Contact</span></a></li>
+						</ul>
+					</div>
+					<div id="investment-planning">
+						<h2>
+							<span>Investment Planning</span>
+						</h2>					
+						<p class="content">
+							The purpose of investing is to produce a reliable cash flow. This applies to charitable foundations, university endowments and municipal pension funds just as much as it does to individuals. Building a portfolio to produce the best returns in bull markets is only half the story; come the inevitable downturn the portfolio will still be expected to fund ongoing expenses. A return/risk balance must be drawn.
+						</p>
+						<!--<p class="content">
+							For this reason, I encourage investors to avoid reliance on the financial services industry and to focus on producing reliable cash flow. The process required to achieve this is logical and derives from Modern Portfolio Theory (MPT) and the advice of <a href="http://en.wikipedia.org/wiki/Benjamin_Graham">Benjamin Graham</a>, the so-called &ldquo;father of value investing&rdquo;. 
+						</p>  -->
+						<h3 class="portfolio">
+							<span>Constructing and Managing a Portfolio</span>
+						</h3>						
+						<p class="content">	
+							To get started, you must decide on the asset classes that you will invest in. Equity, debt, real estate, commodities and cash cover most of the viable options, and the pros and cons of each (both in the US and internationally) need to be examined carefully.
+						</p>
+						<p class="content">	
+							Next, how ambitious are you? Will you try to beat the market or &ldquo;settle&rdquo; instead for just being average? It turns out that being average will often perform best over periods of many years; building a relaible core portfolio is a step that must be established before seeking out active managers to provide alpha.
+						</p>
+						<p class="content">	
+							After this, you will need to choose an investment vehicle. As with asset classes, many options are available and care must be exercised when choosing.
+						</p>
+						<p class="content">	
+							Now that you&#8217;ve decided on the asset classes and investment vehicles, which specific securities are best suited to your goals, and how many positions should you hold? The key point to remember at this step is that broad diversification is critically important. 
+						</p>
+						<p class="content">	
+							 The next part of the process is to determine asset allocation. There is of course no &ldquo;one-size-fits-all&rdquo; portfolio, but the examples below are good starting points and can be adapted to suit the needs of a wide range of investors. Click the buttons to take a look.     
+						</p>
+						<div id="ip-nav">
+							<div id="button-chart-one"></div>
+							<div id="button-chart-two"></div>
+						</div>						
+						<div id="chart">
+							<div id="charts">
+								<div id="chart-one"></div>
+								<div id="chart-two"></div>
+							</div>
+						</div>
+						
+						<noscript>
+							<p class="content">
+								<strong>Sorry, your browser doesn&#8217;t support Javascript. We are unable to show the charts.</strong>
+							</p>
+						</noscript>
+
+						<script type="text/JavaScript">
+						/* <![CDATA[ */
+							document.getElementById('chart').style.display='block'
+							getChart(chart_1,'chart-one')	
+							getChart(chart_2,'chart-two')	
+						/* ]]> */
+						</script>
+						
+						<p class="content">	
+							The final step is to manage the portfolio using Portfolio Rebalancing. This is not only one of the most vital techniques in all of of investing, it is also one of the most misunderstood. Done correctly, it holds the key to capturing investment gains as well as providing the most tax-efficient way to produce cash
+						</p>
+						<p class="content">	
+							To read about portfolio rebalancing, please refer to the <a href="portfolio-management.html">Portfolio Management</a> section.
+						</p>
+					</div>
+					<div id="menu-bottom">
+						<p class="menu-bottom">
+							<a href="index.html">Home</a> | <a href="financial-planning.html">Financial Planning</a> | <a href="investment-planning.html">Investment Planning</a> | <a href="portfolio-management.html">Portfolio Management</a> | <a href="experience.html">Experience</a> | <a href="about.html">About</a> | <a href="contact.html">Contact</a>
+						</p>
+					</div>						
+				</div> 
+				<div id="legal">
+					<p class="legal">
+						copyright &copy; George Fisher Advisors 2005 - 2012
+							|
+						<a class="legal" href="disclaimer.html">disclaimer</a>
+							|
+						<a class="legal" href="sitemap.html">sitemap</a>
+							| website by
+						<a class="legal" href="andrew.html">andrew brundle</a>
+					</p>
+				</div>
+			</div>
+		</div>
+		<div id="content-bottom"></div>
+		<div id="margin-bottom-long"></div>
+	</div>	
+	
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+//<![CDATA[
+  sc_project=1770955; 
+  sc_invisible=1; 
+  sc_partition=16; 
+  sc_security="fb8cf3f2"; 
+//]]>
+</script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js">
+</script>
+<noscript>
+  <div class="statcounter">
+    <a title="site stats" class="statcounter" href="http://www.statcounter.com/free_web_stats.html">
+      <img class="statcounter" src="http://c17.statcounter.com/1770955/0/fb8cf3f2/1/" alt="site stats" /></a>
+  </div>
+</noscript>
+<!-- End of StatCounter Code -->
+
+</body>
+</html>

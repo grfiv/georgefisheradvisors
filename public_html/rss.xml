@@ -1,0 +1,2319 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:icbm="http://postneo.com/icbm" xmlns:g="http://base.google.com/ns/1.0">
+	<!--                                   -->
+	<!--      George Fisher Advisors       -->
+	<!--             RSS feed              -->
+	<!--                                   -->
+	<channel>
+		<title>George Fisher Advisors LLC</title>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.georgefisheradvisors.com/rss.xml" />
+		<link>http://www.georgefisheradvisors.com/</link>
+		<description>A history of the Philadelphia area: William Penn's Quaker Colonies</description>
+		<language>en-us</language>
+		<copyright>Copyright (c) 2004 - 2013 George Fisher Advisors LLC. All rights reserved.</copyright>
+		<category>financial planning</category>
+		<category>investment advice</category>
+		<managingEditor>george@georgefisheradvisors.com (George Fisher)</managingEditor>
+		<webMaster>george@georgefisher.com (George Ross Fisher, IV)</webMaster>
+		<generator>Hand-crafted using PHP</generator>
+		<lastBuildDate>Fri, 15 Nov 2013 22:38:13 EST</lastBuildDate>
+		<sy:updatePeriod>monthly</sy:updatePeriod>
+		<sy:updateFrequency>12</sy:updateFrequency>
+		<sy:updateBase>2013-11-15T22:38:13-05:00</sy:updateBase>
+		<docs>http://backend.userland.com/rss091</docs>
+		<!--                                   -->
+		<!--                                   -->
+		<!--                                   -->
+		<image>
+			<url>http://www.georgefisheradvisors.com/images/rssimage.jpg</url>
+			<width>144</width>
+			<height>144</height>
+			<title>George Fisher Advisors LLC</title>
+			<link>http://www.georgefisheradvisors.com/</link>
+		</image>
+		<!--                                   -->
+		<!--                                   -->
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.unknownbrowser.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:40 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.refererse.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:40 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.refererpages.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:40 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.keyphrases.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:40 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.keywords.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:40 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.urlentry.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:39 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.urlexit.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:39 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.osdetail.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:39 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.unknownos.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:39 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.browserdetail.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:39 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.unknownip.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:38 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.allrobots.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:38 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.lastrobots.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:38 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.session.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:38 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.urldetail.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:38 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:37 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.alldomains.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:37 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.allhosts.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:37 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1311/awstats.996498.1311.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1311/awstats.996498.1311.lasthosts.html</guid>
+			<pubDate>Fri, 15 Nov 2013 02:03:37 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.keyphrases.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:02 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.keywords.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:02 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.unknownos.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:01 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.browserdetail.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:01 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.unknownbrowser.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:01 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.refererse.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:01 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.refererpages.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:01 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.session.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.urldetail.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.urlentry.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.urlexit.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.osdetail.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:58:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.allhosts.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:57:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.lasthosts.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:57:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.unknownip.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:57:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.allrobots.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:57:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.lastrobots.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:57:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:57:58 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1310/awstats.996498.1310.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1310/awstats.996498.1310.alldomains.html</guid>
+			<pubDate>Fri, 01 Nov 2013 01:57:58 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.unknownbrowser.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:02:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.refererse.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:02:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.refererpages.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:02:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.keyphrases.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:02:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.keywords.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:02:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.urlentry.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.urlexit.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.osdetail.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.unknownos.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.browserdetail.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.unknownip.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:58 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.allrobots.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:58 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.lastrobots.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:58 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.session.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:58 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.urldetail.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:58 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:57 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.alldomains.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:57 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.allhosts.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:57 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1309/awstats.996498.1309.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1309/awstats.996498.1309.lasthosts.html</guid>
+			<pubDate>Tue, 01 Oct 2013 02:01:57 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.keywords.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:18 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.browserdetail.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:17 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.unknownbrowser.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:17 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.refererse.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:17 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.refererpages.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:17 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.keyphrases.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:17 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.urldetail.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:16 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.urlentry.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:16 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.urlexit.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:16 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.osdetail.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:16 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.unknownos.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:16 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.lasthosts.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:15 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.unknownip.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:15 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.allrobots.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:15 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.lastrobots.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:15 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.session.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:15 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:14 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.alldomains.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:14 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1308/awstats.996498.1308.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1308/awstats.996498.1308.allhosts.html</guid>
+			<pubDate>Sun, 01 Sep 2013 02:01:14 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.refererpages.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:12 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.keyphrases.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:12 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.keywords.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:12 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.osdetail.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:11 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.unknownos.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:11 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.browserdetail.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:11 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.unknownbrowser.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:11 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.refererse.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:11 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.lastrobots.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:10 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.session.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:10 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.urldetail.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:10 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.urlentry.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:10 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.urlexit.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:10 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:09 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.alldomains.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:09 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.allhosts.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:09 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.lasthosts.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:09 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.unknownip.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:09 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats.netsol.bkp/1308/awstats.996498.1308.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats.netsol.bkp/1308/awstats.996498.1308.allrobots.html</guid>
+			<pubDate>Thu, 29 Aug 2013 02:01:09 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.keyphrases.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:34 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.keywords.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:34 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.unknownos.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:33 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.browserdetail.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:33 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.unknownbrowser.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:33 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.refererse.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:33 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.refererpages.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:33 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.session.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:32 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.urldetail.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:32 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.urlentry.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:32 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.urlexit.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:32 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.osdetail.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:32 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.allhosts.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:31 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.lasthosts.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:31 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.unknownip.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:31 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.allrobots.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:31 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.lastrobots.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:31 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:30 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1307/awstats.996498.1307.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1307/awstats.996498.1307.alldomains.html</guid>
+			<pubDate>Thu, 01 Aug 2013 02:00:30 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.keywords.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:12 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.refererse.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:11 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.refererpages.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:11 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.keyphrases.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:11 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.browserdetail.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:10 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.unknownbrowser.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:10 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.osdetail.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:09 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.unknownos.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:09 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.urldetail.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:08 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.urlentry.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:08 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.urlexit.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:08 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.allrobots.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:07 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.lastrobots.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:07 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.session.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:07 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.lasthosts.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:06 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.unknownip.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:06 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:05 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.alldomains.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:05 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1306/awstats.996498.1306.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1306/awstats.996498.1306.allhosts.html</guid>
+			<pubDate>Mon, 01 Jul 2013 03:41:05 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.keyphrases.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:18 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.keywords.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:18 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.refererse.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:17 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.refererpages.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:17 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.unknownos.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:16 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.browserdetail.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:16 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.unknownbrowser.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:16 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.urlexit.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:15 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.osdetail.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:15 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.session.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:14 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.urldetail.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:14 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.urlentry.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:14 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.allrobots.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:13 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.lastrobots.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:13 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.lasthosts.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:12 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.unknownip.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:12 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:11 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.alldomains.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:11 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1305/awstats.996498.1305.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1305/awstats.996498.1305.allhosts.html</guid>
+			<pubDate>Sat, 01 Jun 2013 03:42:11 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.keyphrases.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:58 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.keywords.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:58 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.unknownbrowser.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:57 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.refererse.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:57 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.refererpages.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:57 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.unknownos.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:56 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.browserdetail.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:56 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.urlexit.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:55 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.osdetail.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:55 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.session.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:54 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.urldetail.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:54 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.urlentry.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:54 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.unknownip.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:53 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.allrobots.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:53 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.lastrobots.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:53 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.allhosts.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:52 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.lasthosts.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:52 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:51 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1304/awstats.996498.1304.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1304/awstats.996498.1304.alldomains.html</guid>
+			<pubDate>Wed, 01 May 2013 03:47:51 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.keywords.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:06 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.refererpages.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:05 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.keyphrases.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:05 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.unknownbrowser.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:04 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.refererse.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:04 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.osdetail.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:03 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.unknownos.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:03 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.browserdetail.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:03 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.urlentry.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:02 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.urlexit.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:02 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.session.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:01 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.urldetail.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:01 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.unknownip.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.allrobots.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.lastrobots.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:45:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.allhosts.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:44:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.lasthosts.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:44:59 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:44:58 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1303/awstats.996498.1303.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1303/awstats.996498.1303.alldomains.html</guid>
+			<pubDate>Mon, 01 Apr 2013 03:44:58 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.refererpages.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:14 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.keyphrases.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:14 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.keywords.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:14 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.unknownbrowser.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:13 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.refererse.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:13 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.unknownos.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:12 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.browserdetail.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:12 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.urlentry.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:11 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.urlexit.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:11 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.osdetail.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:11 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.session.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:10 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.urldetail.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:10 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.allrobots.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:09 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.lastrobots.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:09 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.allhosts.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:08 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.lasthosts.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:08 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.unknownip.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:08 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:07 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1302/awstats.996498.1302.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1302/awstats.996498.1302.alldomains.html</guid>
+			<pubDate>Fri, 01 Mar 2013 03:51:07 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.refererpages.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:45 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.keyphrases.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:45 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.keywords.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:45 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.unknownbrowser.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:44 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.refererse.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:44 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.unknownos.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:43 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.browserdetail.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:43 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.urlentry.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:42 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.urlexit.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:42 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.osdetail.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:42 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.session.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:41 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.urldetail.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:41 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.allrobots.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:40 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.lastrobots.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:40 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.lasthosts.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:39 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.unknownip.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:39 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:38 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.alldomains.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:38 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1301/awstats.996498.1301.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1301/awstats.996498.1301.allhosts.html</guid>
+			<pubDate>Fri, 01 Feb 2013 03:48:38 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.keyphrases.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:31 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.keywords.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:31 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.unknownbrowser.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:30 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.refererse.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:30 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.refererpages.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:30 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.unknownos.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:29 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.browserdetail.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:29 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.urlentry.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:28 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.urlexit.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:28 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.osdetail.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:28 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.session.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:27 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.urldetail.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:27 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.unknownip.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:26 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.allrobots.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:26 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.lastrobots.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:26 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.allhosts.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:25 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.lasthosts.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:25 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:24 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1212/awstats.996498.1212.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1212/awstats.996498.1212.alldomains.html</guid>
+			<pubDate>Tue, 01 Jan 2013 03:50:24 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.keyphrases.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:45 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.keywords.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:45 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.refererse.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:44 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.refererpages.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:44 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.browserdetail.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:43 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.unknownbrowser.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:43 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.osdetail.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:42 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.unknownos.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:42 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.urlentry.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:41 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.urlexit.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:41 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.lastrobots.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:40 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.session.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:40 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.urldetail.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:40 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.unknownip.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:39 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.allrobots.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:39 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.allhosts.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:38 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.lasthosts.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:38 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:37 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1211/awstats.996498.1211.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1211/awstats.996498.1211.alldomains.html</guid>
+			<pubDate>Sat, 01 Dec 2012 03:52:37 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.keywords.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.keywords.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.keywords.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.keywords.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:50 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.refererpages.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.refererpages.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.refererpages.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.refererpages.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:49 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.keyphrases.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.keyphrases.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.keyphrases.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.keyphrases.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:49 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.refererse.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.refererse.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.refererse.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.refererse.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:48 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.unknownbrowser.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.unknownbrowser.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.unknownbrowser.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.unknownbrowser.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:47 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.browserdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.browserdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.browserdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.browserdetail.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:46 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.unknownos.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.unknownos.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.unknownos.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.unknownos.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:45 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.urlexit.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.urlexit.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.urlexit.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.urlexit.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:44 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.osdetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.osdetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.osdetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.osdetail.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:44 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.urlentry.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.urlentry.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.urlentry.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.urlentry.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:43 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.urldetail.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.urldetail.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.urldetail.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.urldetail.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:42 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.session.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.session.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.session.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.session.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:41 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.allrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.allrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.allrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.allrobots.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:40 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.lastrobots.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.lastrobots.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.lastrobots.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.lastrobots.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:40 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.unknownip.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.unknownip.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.unknownip.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.unknownip.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:39 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.lasthosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.lasthosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.lasthosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.lasthosts.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:38 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.alldomains.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.alldomains.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.alldomains.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.alldomains.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:37 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.allhosts.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.allhosts.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.allhosts.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.allhosts.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:37 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/1210/awstats.996498.1210.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/1210/awstats.996498.1210.html</guid>
+			<pubDate>Thu, 01 Nov 2012 08:46:36 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/index.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/index.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/index.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/index.html</guid>
+			<pubDate>Wed, 24 Oct 2012 07:37:18 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/sitemap.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/sitemap.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/sitemap.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/sitemap.html</guid>
+			<pubDate>Mon, 22 Oct 2012 17:05:12 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/disclaimer.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/disclaimer.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/disclaimer.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/disclaimer.html</guid>
+			<pubDate>Mon, 22 Oct 2012 17:04:44 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/experience.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/experience.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/experience.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/experience.html</guid>
+			<pubDate>Mon, 22 Oct 2012 17:03:45 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/financial-planning.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/financial-planning.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/financial-planning.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/financial-planning.html</guid>
+			<pubDate>Mon, 22 Oct 2012 17:03:22 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/portfolio-management.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/portfolio-management.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/portfolio-management.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/portfolio-management.html</guid>
+			<pubDate>Mon, 22 Oct 2012 17:03:02 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/investment-planning.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/investment-planning.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/investment-planning.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/investment-planning.html</guid>
+			<pubDate>Mon, 22 Oct 2012 17:02:42 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/about.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/about.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/about.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/about.html</guid>
+			<pubDate>Mon, 22 Oct 2012 17:02:14 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/awstats/home.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/awstats/home.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/awstats/home.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/awstats/home.htm</guid>
+			<pubDate>Wed, 03 Oct 2012 16:15:12 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/ri/index.php</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/ri/index.php</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/ri/index.php</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/ri/index.php</guid>
+			<pubDate>Wed, 26 Sep 2012 15:53:49 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/RI/index.php</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/RI/index.php</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/RI/index.php</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/RI/index.php</guid>
+			<pubDate>Wed, 26 Sep 2012 15:51:54 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/forexfactory.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/forexfactory.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/forexfactory.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/forexfactory.htm</guid>
+			<pubDate>Wed, 27 Oct 2010 21:22:21 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/aboutX.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/aboutX.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/aboutX.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/aboutX.html</guid>
+			<pubDate>Sat, 02 Oct 2010 12:07:08 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/experienceX.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/experienceX.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/experienceX.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/experienceX.html</guid>
+			<pubDate>Sat, 02 Oct 2010 12:05:42 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/portfolio-managementX.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/portfolio-managementX.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/portfolio-managementX.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/portfolio-managementX.html</guid>
+			<pubDate>Sat, 02 Oct 2010 12:04:13 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/investment-planningX.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/investment-planningX.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/investment-planningX.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/investment-planningX.html</guid>
+			<pubDate>Sat, 02 Oct 2010 12:03:02 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/financial-planningX.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/financial-planningX.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/financial-planningX.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/financial-planningX.html</guid>
+			<pubDate>Sat, 02 Oct 2010 12:01:45 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/capneed/index.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/capneed/index.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/capneed/index.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/capneed/index.htm</guid>
+			<pubDate>Sat, 28 Aug 2010 11:40:24 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/contact.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/contact.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/contact.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/contact.html</guid>
+			<pubDate>Fri, 23 Jul 2010 09:22:00 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/cms.php</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/cms.php</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/cms.php</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/cms.php</guid>
+			<pubDate>Thu, 22 Oct 2009 08:05:54 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/utilities.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/utilities.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/utilities.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/utilities.htm</guid>
+			<pubDate>Thu, 15 Oct 2009 06:58:43 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/retirementplanningX.php</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/retirementplanningX.php</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/retirementplanningX.php</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/retirementplanningX.php</guid>
+			<pubDate>Thu, 15 Oct 2009 06:58:38 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/retirement-planningX.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/retirement-planningX.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/retirement-planningX.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/retirement-planningX.html</guid>
+			<pubDate>Thu, 15 Oct 2009 06:58:38 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/realestateinvestmentcalculator.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/realestateinvestmentcalculator.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/realestateinvestmentcalculator.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/realestateinvestmentcalculator.html</guid>
+			<pubDate>Thu, 15 Oct 2009 06:58:37 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/king-lear-quote.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/king-lear-quote.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/king-lear-quote.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/king-lear-quote.html</guid>
+			<pubDate>Thu, 15 Oct 2009 06:58:35 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/google480059154b5c83dc.html</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/google480059154b5c83dc.html</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/google480059154b5c83dc.html</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/google480059154b5c83dc.html</guid>
+			<pubDate>Thu, 15 Oct 2009 06:58:33 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/form.php</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/form.php</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/form.php</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/form.php</guid>
+			<pubDate>Thu, 15 Oct 2009 06:58:32 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/experienceX.php</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/experienceX.php</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/experienceX.php</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/experienceX.php</guid>
+			<pubDate>Thu, 15 Oct 2009 06:58:31 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/experience-workX.php</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/experience-workX.php</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/experience-workX.php</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/experience-workX.php</guid>
+			<pubDate>Thu, 15 Oct 2009 06:58:30 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/experience-qualificationsX.php</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/experience-qualificationsX.php</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/experience-qualificationsX.php</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/experience-qualificationsX.php</guid>
+			<pubDate>Thu, 15 Oct 2009 06:58:29 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/capneedi/index.php</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/capneedi/index.php</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/capneedi/index.php</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/capneedi/index.php</guid>
+			<pubDate>Sat, 19 Sep 2009 12:32:31 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/recalci/recalci.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/recalci/recalci.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/recalci/recalci.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/recalci/recalci.htm</guid>
+			<pubDate>Sat, 19 Sep 2009 12:29:56 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/recalci/index.php</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/recalci/index.php</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/recalci/index.php</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/recalci/index.php</guid>
+			<pubDate>Sat, 19 Sep 2009 12:29:54 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/recalc/recalc.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/recalc/recalc.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/recalc/recalc.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/recalc/recalc.htm</guid>
+			<pubDate>Tue, 27 Jan 2009 07:53:06 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/portfolio-rebalance/portfolio-rebalance.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/portfolio-rebalance/portfolio-rebalance.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/portfolio-rebalance/portfolio-rebalance.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/portfolio-rebalance/portfolio-rebalance.htm</guid>
+			<pubDate>Mon, 18 Aug 2008 19:19:02 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/cash-choices/cash-choices.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/cash-choices/cash-choices.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/cash-choices/cash-choices.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/cash-choices/cash-choices.htm</guid>
+			<pubDate>Sat, 12 Apr 2008 12:08:20 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/capneed/explanation.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/capneed/explanation.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/capneed/explanation.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/capneed/explanation.htm</guid>
+			<pubDate>Fri, 07 Mar 2008 15:37:57 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/portfolio-rebalance-fewest/portfolio-rebalance-fewest.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/portfolio-rebalance-fewest/portfolio-rebalance-fewest.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/portfolio-rebalance-fewest/portfolio-rebalance-fewest.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/portfolio-rebalance-fewest/portfolio-rebalance-fewest.htm</guid>
+			<pubDate>Fri, 18 Jan 2008 11:07:25 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/cash/cash.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/cash/cash.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/cash/cash.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/cash/cash.htm</guid>
+			<pubDate>Sun, 13 Jan 2008 13:51:37 EST</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/calc/selling/selling.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/calc/selling/selling.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/calc/selling/selling.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/calc/selling/selling.htm</guid>
+			<pubDate>Fri, 20 Apr 2007 17:19:22 EDT</pubDate>
+		</item>
+		<item>
+			<title>/data/18/0/150/157/965809/user/996498/htdocs/calc/buying/buying.htm</title>
+			<g:publication_name>/data/18/0/150/157/965809/user/996498/htdocs/calc/buying/buying.htm</g:publication_name>
+			<link>http://www.georgefisheradvisors.com/calc/buying/buying.htm</link>
+			<guid isPermaLink="false">tag:www.georgefisheradvisors.com,2013-11-15:%2F/data/18/0/150/157/965809/user/996498/htdocs/calc/buying/buying.htm</guid>
+			<pubDate>Fri, 20 Apr 2007 17:19:21 EDT</pubDate>
+		</item>
+	</channel>
+</rss>

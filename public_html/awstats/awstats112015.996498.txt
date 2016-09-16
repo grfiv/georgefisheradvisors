@@ -1,0 +1,1422 @@
+AWSTATS DATA FILE 6.7 (build 1.892)
+# If you remove this file, all statistics for date 201511 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2536                
+POS_VISITOR 29865               
+POS_DAY 45882               
+POS_DOMAIN 3434                
+POS_LOGIN 3667                
+POS_ROBOT 3822                
+POS_WORMS 4768                
+POS_EMAILSENDER 4899                
+POS_EMAILRECEIVER 5042                
+POS_SESSION 46699               
+POS_SIDER 46909               
+POS_FILETYPES 5177                
+POS_OS 5395                
+POS_BROWSER 5578                
+POS_SCREENSIZE 6278                
+POS_UNKNOWNREFERER 6352                
+POS_UNKNOWNREFERERBROWSER 7981                
+POS_ORIGIN 8792                
+POS_SEREFERRALS 8936                
+POS_PAGEREFS 9124                
+POS_SEARCHWORDS 11101               
+POS_KEYWORDS 11340               
+POS_MISC 2200                
+POS_ERRORS 11480               
+POS_CLUSTER 3523                
+POS_SIDER_404 11655               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151201000526 1 0 11260729583234
+FirstTime 20151101001242
+LastTime 20151130173320
+LastUpdate 20151202013707 1 0 0 0 0
+TotalVisits 519                 
+TotalUnique 401                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 417                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 72 94 1744720 172 190 1072158
+1 42 57 1384354 178 242 1588803
+2 62 73 2033369 188 198 1108505
+3 30 32 925972 137 155 801110
+4 25 32 382845 99 196 1926584
+5 25 27 425359 113 139 1639791
+6 51 99 1708806 148 158 813253
+7 78 91 2304152 218 225 755387
+8 32 44 910197 209 230 1487394
+9 69 124 2224378 219 245 1622731
+10 104 136 2131268 130 138 627708
+11 102 180 4009461 228 239 1261543
+12 44 108 1864598 216 224 2164770
+13 37 65 1820319 281 297 1958920
+14 61 64 1148318 176 186 1051648
+15 36 37 548121 134 138 958095
+16 46 77 1233542 111 163 1095867
+17 89 144 3191866 143 171 1422473
+18 38 39 609270 184 192 1671289
+19 30 90 1559188 114 125 1016459
+20 40 97 1560853 79 87 633336
+21 43 43 1533234 187 198 1030310
+22 54 54 825993 123 136 910565
+23 34 34 452721 730 968 3966483
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1244 1841 36532904
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 23
+\wbot[\/\-] 931 10895323 20151130223609 328
+unknown 330 65340 20151130192512 330
+mj12bot 231 3009917 20151130221306 89
+crawl 216 2930190 20151130194613 5
+java 135 1771315 20151127090536 0
+yandex 127 1120466 20151128152422 42
+slurp 105 943341 20151130223638 32
+googlebot 100 1216768 20151130224225 35
+robot 92 1381019 20151130171416 25
+spider 52 232878 20151130152538 12
+powermarks 2 17150 20151124063743 0
+exabot 6 10285 20151130232338 2
+ia_archiver 4 47726 20151113050904 2
+y!j 14 113313 20151117152428 3
+mojeekbot 2 8773 20151122222011 1
+seznambot 10 86912 20151126041735 3
+phantom 8 69012 20151108171350 0
+python 7 60025 20151128065138 0
+cscrawler 2 8773 20151125231345 1
+surveybot 8 35092 20151119102902 4
+netcraft 2 17150 20151107102935 0
+baiduspider 43 678006 20151129090047 0
+nutch 2 8773 20151130144226 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 64 248576 0 0
+png 216 2563864 0 0
+htm 47 2140924 0 0
+php 57 701100 0 0
+html 963 11859969 0 0
+xml 177 12023380 0 0
+jpg 267 6898995 0 0
+js 9 29952 0 0
+gif 41 66144 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 14
+winxp 274
+winlong 12
+unix 1
+winnt 672
+win2000 18
+linuxubuntu 5
+linux 90
+macosx 293
+win16 3
+winme 3
+win95 4
+win2003 53
+Unknown 412
+bsdopenbsd 1
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 49
+msie6.0 108
+firefox28.0 7
+firefox5.0 1
+firefox20.0 1
+firefox15.0.2 2
+firefox4.0 2
+msie4.01 3
+firefox34.0 1
+lynx 2
+firefox2.0.0.12 1
+firefox24.0 7
+msie8.0 1
+netscape3.01 1
+firefox6.0.2 139
+netscape3.0 5
+netscape0.91 3
+firefox3.5.8 1
+msie7.0 46
+firefox23.0 1
+firefox41.0 3
+firefox3.6.9 1
+wget 1
+msie5.0 6
+msie9.0 16
+Unknown 316
+firefox11.0 1
+netscape 56
+firefox40.0 4
+firefox42.0 24
+opera 40
+libwww 2
+firefox21.0 9
+firefox29.0 7
+netscape9.1.0285 1
+firefox38.0 23
+msie5.5 2
+firefox2.0.0.6 1
+firefox12.0 3
+mozilla 179
+firefox39.0 5
+firefox1.0 2
+firefox25.0 1
+firefox14.0.1 18
+firefox22.0 15
+msie10.0 25
+firefox3.6.3 1
+msie 11
+safari 734
+firefox15.0.1 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 25
+Mozilla/5.0_(compatible;_DuckDuckGo-Favicons-Bot/1.0;__http://duckduckgo.com) 20151125153036
+Stratagems_Kumo 20151125105959
+Domain_Re-Animator_Bot_(http://domainreanimator.com)_-_support@domainreanimator.com 20151126224907
+Mozilla/5.0_(compatible;_DomainAppender_/1.0;__http://www.profound.net/domainappender) 20151124165206
+LWP::Simple/6.00_libwww-perl/6.05 20151121230459
+Mozilla/5.0_(compatible;_MSIE_9.0;_Windows_Phone_OS_7.5;_Trident/5.0;_IEMobile/9.0) 20151117154004
+voltron 20151123223731
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20151101061044
+panscient.com 20151123140952
+Mozilla/0.91_Beta_(Windows) 20151123084736
+Wget/1.11.4_(Red_Hat_modified) 20151112174549
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~rqqxuetik56) 20151105144601
+Google_favicon 20151111091855
+Mozilla/5.0_(compatible;_MSIE_or_Firefox_mutant;_not_on_Windows_server;)_Daumoa_4.0 20151119030420
+- 20151129061832
+Blackboard_Safeassign 20151117130311
+ltx71_-_(http://ltx71.com/) 20151109173322
+Mozilla 20151122103951
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20151126202842
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20151121002556
+Microsoft_Office_Protocol_Discovery 20151105150614
+Riddler_(http://riddler.io/about) 20151130040555
+Go-http-client/1.1 20151122123849
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20151115214558
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~rqqxuetik48) 20151102140909
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 14
+Stratagems_Kumo 20151125105959
+Domain_Re-Animator_Bot_(http://domainreanimator.com)_-_support@domainreanimator.com 20151126224907
+voltron 20151123223731
+Microsoft_Office_Protocol_Discovery 20151105150614
+panscient.com 20151123140952
+Riddler_(http://riddler.io/about) 20151130040555
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~rqqxuetik56) 20151105144601
+Google_favicon 20151111091855
+- 20151129061832
+Go-http-client/1.1 20151122123849
+BlackBerry9000/4.6.0.167_Profile/MIDP-2.0_Configuration/CLDC-1.1_VendorID/102_ips-agent 20151115214558
+Blackboard_Safeassign 20151117130311
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~rqqxuetik48) 20151102140909
+ltx71_-_(http://ltx71.com/) 20151109173322
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 840 855
+From1 0 0
+From2 85 85
+From3 179 179
+From4 140 722
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 74 74
+baidu 1 1
+yandex 5 5
+yahoo 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 57
+http://www.vzlom-na-zakaz.com 11 11
+http://rankings-analytics.com/try.php 10 10
+http://lost-alpha.ru 9 9
+http://www.hacktougroup.ru 9 9
+http://www.bing.com/search 6 6
+http://chcu.net/porno-video-2016/ 6 6
+http://netpics.org 6 6
+http://www.asansoristanbul.com 6 6
+http://hubpages.com 5 5
+http://www.zakazvzloma.com 5 5
+http://pizza-tycoon.com 1 1
+http://acuclubs.net 1 1
+http://expertnaya-ocenka.ru 3 3
+http://hvd-store.com 2 2
+http://www.manta.com/c/mbd0l8f/george-advisors 1 1
+http://sdi-pme.com 3 3
+http://horoshieokna.com 3 3
+http://android-vsem.org 3 3
+http://privatov-zapisi.ru/home/ 3 3
+http://dlya-android.org 2 2
+http://nardar.ru 3 3
+http://www.yugo-star.ru 3 3
+http://nagdak.ru 3 3
+http://energy-ua.com 3 3
+http://hundejo.com 1 1
+http://scripted.com/georgefisheradvisors.com 1 1
+http://vsesubwaysurfers.com 2 2
+http://autonew.biz 3 3
+http://buttons-for-website.com 1 1
+http://finstroy.net 2 2
+http://www.fivecentnickel.com/2008/02/19/early-retirement-figuring-out-how-much-youll-need/ 3 3
+http://burger-imperia.com 1 1
+http://www.sexkrasivo.net 2 2
+http://pizza-imperia.com 2 2
+http://ledstudio.org 3 3
+http://brendbutik.ru 3 3
+http://doeco.ru 3 3
+http://blogos.kz 2 2
+http://atlant-auto.info 3 3
+http://vkontaktemusic.ru 3 3
+http://wzgyyq.com 3 3
+http://www.philadelphia-reflections.com/directory.php 1 1
+http://zaimhelp.ru 3 3
+http://consumerismcommentary.com.lampdev.dms.quinstreet.net 1 1
+http://www.yellowpages.com/pacifica-ca/mip/george-advisors-461899490 1 1
+https://www.bing.com 1 1
+http://www.sarafangel.ru 3 3
+http://stariy-baku.com 3 3
+http://www.shoppingmiracles.co.uk 3 3
+http://sims-sims.ru 2 2
+http://gardene.ru 3 3
+http://scripted.com/georgefisheradvisor.com 1 1
+http://drugstotreated.com 2 2
+http://lombardfinder.ru 3 3
+http://lirunet.ru 3 3
+http://zojirushi-products.ru 2 2
+https://steelmaster.lv 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+georgefisheradvisor.com 1
+capital+needs+assessment+template 1
+what+are+capital+needs 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+needs 2
+capital 2
+template 1
+what 1
+georgefisheradvisor.com 1
+assessment 1
+are 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 25 32687
+206 65 710625
+400 7 2142
+401 817 492651
+500 7 0
+405 2 470
+404 1874 6615532
+301 14 3528
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 481
+/editor/editor/filemanager/connectors/asp/connector.asp 2 -
+/wordpress/ 8 -
+///////experience.php 12 -
+/investment-planning.html/experience.html 1 -
+/admin.php 8 -
+/////capneed/index.html 2 -
+/////Asset 2 -
+/images/2_11.gif 3 -
+/convert/index.php 2 -
+/images/ThePowerOfConsistentEarlySaving.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/investment-planning.html/about.html 1 -
+/phpcms/ 3 -
+/images/insurance_files/image039.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/KEdit/ 3 -
+/CuteSoft_Client/CuteEditor/Images/log.gif 3 -
+/new_gb/help/images/usage/3.3.gif 3 -
+/fckeditor/fckeditor.js 3 -
+/common/common.js 3 -
+/javascript/form.php 7 -
+/Images/login/lefttu.jpg 3 -
+/Admin/Images/LoginImages/admin_top.gif 3 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 3 -
+///////retirement-planning.html 2 -
+/url(graphics/bg-container-vertical.png) 1 -
+/sitemap_news.xml 3 http://www.google.com
+/Images/login/mainlogo.gif 3 -
+/editor/editor/filemanager/browser/default/connectors/asp/connector.asp 2 -
+/xmlrpc.php 5 -
+/images/insurance_files/image018.jpg 4 -
+/sysadmin/fckeditor/editor/ 1 -
+/plus/mytag_js.php 2 http://www.georgefisheradvisors.com/plus/mytag_js.php
+/member/space/company/info.txt 3 -
+/ckeditor/editor/ 1 -
+/adm/fckeditor/editor/ 1 -
+/images/insurance_files/image026.jpg 4 -
+/siteserver/upgrade/default.aspx 3 -
+/images/insurance_files/image023.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/administrator/manifests/files/joomla.xml 3 -
+/index.cgi 3 -
+/affiliate/affiliate53/fckeditor/editor/fckeditor.html 2 -
+/mt/mt-static/plugins/FCKeditor/fckeditor/editor/fckeditor.html 2 -
+/doku.php 4 -
+/administrator/ 4 -
+/Msxml2.XMLHTTP 1 -
+/capneed/explanation.html 35 -
+/components/com_joomleague/assets/classes/open-flash-chart/ofc_upload_image.php 1 -
+/plus/img/wbg.gif 24 -
+/docs.css 3 -
+/editorold/editor/ 1 -
+/images/insurance_files/image022.jpg 4 -
+/inc/rsd.php 3 -
+/admin/inc/xml.xslt 3 -
+/Fckeditorold/editor/ 2 -
+/wp-login.php 10 -
+/administrator/components/com_rokdownloads/assets/uploadhandler.php 1 -
+/investment-planning.html/investment-planning.html 1 -
+/system/ 6 -
+/FCKeditor/editor/filemanager/connectors/asp/connector.asp 2 -
+/investment-planning.html/contact.html 1 -
+/web-systems.php 1 georgefisheradvisors.com/web-systems.php
+/User/Login.aspx 3 -
+/kindeditor.js 3 -
+/styles/philadelphia-reflections/reflectionsLayout.css 12 http://www.georgefisheradvisors.com/capneed/explanation.htm
+/capneed/index.html 33 -
+/libs/ 3 -
+/bencandy.php 3 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 3 -
+/jcms/index_jcms.jsp 3 -
+/images/zh-CN/logo.ico 3 -
+/text/css 3 -
+/shop/ 12 -
+/images/insurance_files/image027.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 3 -
+/riskmanagement.html 6 -
+/Images/login/biaoti.jpg 3 -
+/images/retirementplanning/image008.jpg 12 http://www.georgefisheradvisors.com/capneed/explanation.htm
+/license.txt 3 -
+/components/com_creativecontactform/fileupload/index.php 1 -
+/Asset 6 -
+/images/insurance_files/image010.jpg 4 -
+/Fckeditornew/editor/ 2 -
+/verycms/ 3 -
+/archiver/ 3 -
+/cms/editor/editor/ 1 -
+/plug/publish 3 -
+/license.php 4 -
+/editor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/cmseasy/ 3 -
+/includes/fckeditor/editor/ 1 -
+/cgi/index.cgi 3 -
+/history.txt 3 -
+/////experience.php 12 -
+/setup.php 1 georgefisheradvisors.com/setup.php
+/styles/philadelphia-reflections/reflectionsIndividualColumn.css 12 http://www.georgefisheradvisors.com/capneed/explanation.htm
+/addons/theme/stv1/_static/ts2/layout.css 2 -
+/cms/fckeditor/editor/ 1 -
+/tpl/login/user/images/login_bg_1.jpg 3 -
+/deptWebsiteAction.do 3 -
+/webmail/ 9 -
+/plugins/editors/idoeditor/themes/advanced/php/image.php 1 -
+/plus/sitemap.html 3 -
+/dede/ 3 -
+/readme.html 3 -
+/rss.aspx 3 -
+/images/login-page.gif 4 -
+/images/retirementplanning/image009.jpg 4 -
+/system/language/zh-cn.xml 3 -
+/includes/general.js 3 -
+/dedecms/ 3 -
+/portfolio-management.html/disclaimer.html 1 -
+/application/x-www-form-urlencoded 1 -
+/kindeditor-min.js 3 -
+/addons/theme/stv2/_static/ts2/layout.css 2 -
+/manager/status 8 -
+/default/css/em_css.css 3 -
+/images/insurance_files/image007.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/jcms/index.jsp 3 -
+/editor/js/fckeditorcode_ie.js 3 -
+/system/skins/default/system.login.htm 3 -
+/app/images/login/toplogo.gif 3 -
+/mail/ 9 -
+/Template/Default/Skin/user/images/login_back.jpg 3 -
+/admin/fckeditor/editor/ 2 -
+/images/insurance_files/image035.jpg 4 -
+/app/home/skins/default/style.css 3 -
+/archive/archive.css 3 -
+/fckeditor/editor/dtd/fck_dtd_test.html 3 -
+/manage/ 6 -
+/portfolio-management.html/sitemap.html 1 -
+/images/hwem.css 3 -
+/forum/ 9 -
+/feed/ 1 http://www.google.com
+/images/retirementplanning/image004.jpg 7 -
+/Value_cost_vs_dollar_cost_averaging.pdf 1 -
+/alimail/ 3 -
+/wp-admin/ 2 -
+/lang/en.js 3 -
+/console/js/CWCMDialogHead.js 3 -
+/dvbbs/ 3 -
+/examples/index.html 3 -
+/zcms/ 3 -
+/yp/images/edit.gif 1 -
+/////retirement-planning.html 2 -
+/ids/admin/userhome/forgetPwd.jsp 3 -
+/scripts/fckeditor/editor/ 1 -
+/sitemap-news.xml 3 http://www.google.com
+/editor/dtd/ 6 -
+/ckfinder/install.txt 3 -
+/Search.html 3 -
+/images/insurance_files/image012.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/Admin/Login.aspx 3 -
+/Prompt/images/P_Wrong.gif 3 -
+/default/images/logo.gif 3 -
+/template/home.htm 3 -
+/investment-planning.html/financial-planning.html 1 -
+/misc/druplicon.png 4 -
+/m 6 -
+/plus/rssmap.html 3 -
+/apple-touch-icon-76x76.png 1 -
+/portfolio/aui/FCKeditor/editor/fckeditor.html 2 -
+/include/fckeditor/editor/ 1 -
+/images/insurance_files/image025.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/images/insurance_files/image036.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/fangmail/ 3 -
+/leadbbs/ 3 -
+/docs/ 3 -
+/images/insurance_files/image024.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/images/insurance_files/image006.jpg 3 -
+/wp-content/uploads/license.php 1 georgefisheradvisors.com/wp-content/uploads/license.php
+/test/wp-admin/ 3 -
+/images/zh-CN/winisp.gif 3 -
+/admin/ 9 -
+/issmall 4 -
+/wp-includes/routing.php 1 http://www.georgefisheradvisors.com/wp-includes/routing.php
+/apple-touch-icon.png 4 -
+/images/login/eyoumail.gif 3 -
+/admin/FCKeditor/editor/filemanager/connectors/php/connector.php 2 -
+/kmustkjc/plugins/editors/fckeditor/editor/fckeditor.html 2 -
+/images/insurance_files/image031.jpg 4 -
+/inc/fckeditor/editor/ 2 -
+/images/joomla_logo_black.jpg 4 -
+/system/editor/editor/ 1 -
+///////Asset 2 -
+/ckeditor/ckeditor.js 3 -
+/Install/logo.gif 3 -
+/blog/ 14 -
+/next/img/logo.gif 3 -
+/wp/ 8 -
+/portfolio-management.html/index.html 1 -
+/archiver 9 -
+/digg.php 3 -
+/maintlogin.jsp 3 -
+/administrator/components/com_maianmedia/utilities/charts/php-ofc-library/ofc_upload_image.php 1 -
+/experience.html/index.html 1 -
+/GestaoProService/includes/fckeditor/editor/fckeditor.html 2 -
+/adminsoft/templates/images/login_bg_top.jpg 3 -
+/asp.net/README.txt 3 -
+/plugins/filemanager/filemanager/js 3 -
+/retirement-planning.html 37 -
+/inc/Templates/rss.xslt 3 -
+/apple-touch-icon-precomposed.png 3 -
+/inurl-/fckeditor/editor/fckeditor.html 2 -
+/FCKeditor/editor/ 1 -
+/investment-planning.html/portfolio-management.html 1 -
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 3 -
+/financialplanning.html 3 -
+/fckeditor/editor/ 6 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 2 -
+/bscw_resources/javascript/FCKeditor/editor/fckeditor.html 2 -
+/manage/fckeditor/editor/ 3 -
+/extman/default/images/logo.gif 3 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 3 -
+/retirementplanning.php 4 -
+/admin 3 -
+/cgi-mod/header_logo.cgi 4 -
+/editor1/editor/ 2 -
+/extern.php 3 -
+/master/login.aspx 3 -
+/admin/login.aspx 3 -
+/images/insurance_files/image003.jpg 4 -
+/console/include/not_login.htm 3 -
+/tools/rss.aspx 3 -
+/fckeditor/editor/js/fckeditorcode_ie.js 6 -
+/components/com_agileplmform/views/agileplmform/js/uploadify.php 1 -
+/phpMyAdmin/ 2 -
+/Asset%20Allocation%20and%20Portfolio%20Rebalancing.htm 14 http://www.georgefisheradvisors.com/sitemap.html
+/bbs/utility/convert/index.php 2 -
+/portfolio-management.html/investment-planning.html 1 -
+/ewebeditor/ 3 -
+/noexist_480059154b5c83dc.html 2 -
+/apps/admin/_static/image/login_box_bg.png 2 -
+/admin/includes/ 2 -
+/admin/eWebEditor/ 3 -
+/stylesheet.css 3 -
+/Help 3 -
+/experience-qualifications.php 10 -
+/webedit/ 3 -
+/feed.asp 3 -
+/examples/file-manager.html 3 -
+/shops/ 12 -
+/editor/editor/filemanager/connectors/aspx/connector.aspx 2 -
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 3 -
+/coremail/common/help/images/helplogo.gif 3 -
+/drupal/ 3 -
+/images/insurance_files/image020.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/ckeditor/ckfinder/install.txt 3 -
+/siteserver/login.aspx 3 -
+/javascript/application/x-www-form-urlencoded 1 -
+/images/login/logo.gif 3 -
+/images/insurance_files/image008.jpg 4 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 2 -
+/scriptjava.php 1 georgefisheradvisors.com/scriptjava.php
+/investment-planning.html/disclaimer.html 1 -
+/help/ch_gb/images/help-title.gif 3 -
+/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 2 -
+/FCKeditor/editor/filemanager/browser/default/connectors/asp/connector.asp 2 -
+/API/DW/Dwplugin/TemplateManage/login_site.htm 3 -
+/editor/editor/ 1 -
+/system/fckeditor/editor/ 2 -
+/Editor.js 3 -
+/examples/readonly.html 3 -
+/Admin/Common/HelpLinks.xml 3 -
+/presentations/fp04%20-%20Time%20Value%20Of%20Money%20and%20Inflation/ 2 -
+/ids/admin/login.jsp 3 -
+/rss/ 1 http://www.google.com
+/images/insurance_files/image037.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/images/insurance_files/image017.jpg 4 -
+/admin/start/index.php 3 -
+/wcm/ 3 -
+/CFIDE/administrator/ 1 -
+/statics/ 3 -
+/FCK/fckeditor.js 3 -
+/CuteSoft_Client/CuteEditor/Style/IE.css 3 -
+/images/insurance_files/image013.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/portfolio-management.html/about.html 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/php/connector.php 2 -
+/wp-content 3 -
+/joomla/ 3 -
+/js/fckeditor/editor/ 2 -
+/dialog/dialog.js 3 -
+/adminaccess/welcome.aspx 1 -
+/scriptjava.phpindex.php 1 georgefisheradvisors.com/scriptjava.phpindex.php
+/apple-touch-icon-76x76-precomposed.png 1 -
+///////capneed/index.html 2 -
+/whir_system/login.aspx 3 -
+/portfolio-management.html/contact.html 2 -
+/FCKeditor/editor/filemanager/connectors/php/connector.php 2 -
+/ch/ 3 -
+/eWebEditor/ 3 -
+/sites/default/files/tmp/ 1 -
+/images/insurance_files/image033.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/wp-indeks.php 1 http://www.georgefisheradvisors.com/wp-indeks.php
+/images/retirementplanning/image003.jpg 4 -
+/extmail/ 3 -
+/6kbbs/ 3 -
+/images/branding/logo.gif 3 -
+/images/insurance_files/image028.jpg 4 -
+/:nav_pos.backgroundPosition= 1 -
+/ecshop/ 4 -
+/app/js/source/wcmlib/WCMConstants.js 3 -
+/javascript/text/html 1 -
+/wp/wp-admin/ 3 -
+/jxcms/ 3 -
+/adm/editor/editor/ 1 -
+/images/insurance_files/image041.jpg 4 -
+/eshop/ 12 -
+/kindeditor/ 3 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 2 -
+/data/admin/ver.txt 3 -
+/plugins/anchor/anchor.js 3 -
+/images/insurance_files/image030.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/CuteSoft_Client/CuteEditor/Help/default.htm 3 -
+/coremail/common/help/images/helplogo_zh.gif 3 -
+/images/insurance_files/image016.jpg 4 -
+/admin/js/IdSUtil.js 3 -
+/presentations/fp00%20-%20Retirement%20Planning%20Overview/index.html 7 -
+/e/master/login.aspx 3 -
+/skin/frontend/default/modern/css/styles.css 3 -
+/metinfo/ 3 -
+/experience-work.php 10 -
+/admin-console 4 -
+/themes/default/default.css 3 -
+/components/com_joomsport/includes/imgres.php 1 -
+/college-fund/college-fund.htm 2 -
+/eweb/ 3 -
+/webyep-system/program/opt/fckeditor/editor/fckeditor.html 2 -
+/kesion/ 3 -
+/images/insurance_files/image029.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/mall/ 12 -
+/images/login/icon-up.gif 3 -
+/weblog/ 9 -
+/portfolio-management.html/financial-planning.html 1 -
+/admin/SouthidcEditor/ewebeditor.asp 3 -
+/FCK/editor/js/fckeditorcode_ie.js 3 -
+/asset%20allocation%20and%20portfolio%20rebalancing.htm 1 -
+/administrator/index.php 1 -
+/kingcms/ 3 -
+/install 3 -
+/images/default/post_bt.gif 3 -
+/empirecms/ 3 -
+/js/ajax_x.js 3 -
+/images/powered_by.gif 4 -
+/wordpress/wp-admin/ 3 -
+/V2/utils/WYSEditor/editor/fckeditor.html 2 -
+/editor/editor/filemanager/connectors/php/connector.php 2 -
+/fckeditor.js 3 -
+/wp-cron.php 3 -
+/function.filesize 1 -
+/skype:georgefisher 6 -
+/fckeditor/license.txt 3 -
+/administrator/components/com_extplorer/uploadhandler.php 1 -
+/assetalloc.php 4 -
+/images/insurance_files/image011.jpg 4 -
+/componentes3.7/fckeditor/editor/fckeditor.html 2 -
+/modules/pm_advancedsearch4/js/uploadify/uploadify.php 1 -
+/experience.php 212 -
+/phpmyadmin/docs.css 3 -
+/fckeditor/fckconfig.js 3 -
+/manage/editor/editor/ 1 -
+//404.php 1 georgefisheradvisors.com//404.php
+/ycportal/webpublish/module.main 3 -
+/bbs/convert/index.php 2 -
+/whir_system/module/security/login.aspx 3 -
+/FCKeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 2 -
+/images/insurance_files/image004.jpg 4 -
+/includes/phpEasyAdmin/form/textarea/editor/fckeditor.html 2 -
+/////capneed/explanation.html 2 -
+/aspcms/ 3 -
+/images/insurance_files/image005.jpg 4 -
+/.google-analytics.com/ga.js 2 -
+/Fckeditor/editor/ 1 -
+/styles/philadelphia-reflections/reflectionsTopicsColumn.css 12 http://www.georgefisheradvisors.com/capneed/explanation.htm
+/images/retirementplanning/image002.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/plugins/fckeditor-spip-2/fckeditor/editor/fckeditor.html 2 -
+/licence.txt 3 -
+/web-console 4 -
+/console/js/CTRSRequestParam.js 3 -
+/admin/SouthidcEditor/Dialog/dialog.js 3 -
+/images/retirementplanning/image007.jpg 12 http://www.georgefisheradvisors.com/capneed/explanation.htm
+/images/insurance_files/image019.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/max-templates/classic/styles/app.css 3 -
+/admin/index.php 3 -
+/Microsoft.XMLHTTP 1 -
+/changelog.txt 3 -
+/app/images/login/logo.png 3 -
+/portfolio-management.html/portfolio-management.html 1 -
+/inc/playerKinds.xml 3 -
+/Admin/Images/LoginImages/admin_text.gif 3 -
+/fluxbb/ 3 -
+/browserconfig.xml 3 -
+/AssetAllocationandPortfolioRebalancing.htm 8 -
+/phpmyadmin/ 3 -
+/list.php 3 -
+/phpwind/ 3 -
+/admin/FCKeditor/editor/filemanager/connectors/asp/connector.asp 2 -
+/api/api_user.xml 3 -
+/login/Jeecms.do 3 -
+/images/insurance_files/image038.jpg 4 -
+/images/insurance_files/image015.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/apple-touch-icon-120x120.png 1 -
+/images/insurance_files/image034.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/includes/ 3 -
+/joshiken/html/mambots/editors/fckeditor/editor/fckeditor.html 2 -
+/wp-content/themes/twentyten/404.php 1 georgefisheradvisors.com/wp-content/themes/twentyten/404.php
+/wp-admin/includes/image-import.php 1 http://www.georgefisheradvisors.com/wp-admin/includes/image-import.php
+/phpbb/ 3 -
+/blog/wp-admin/ 3 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/ycportal/js/wbTextBox/showimg.jsp 3 -
+/bbsmax/ 3 -
+/modules/mod_artuploader/upload.php 1 -
+/ymail/images/index_r1_c4.jpg 3 -
+/ckfinder/ckfinder.html 3 -
+/oecms/ 3 -
+/utility/convert/index.php 2 -
+/discuz/ 6 -
+/web2/login_template/1.files/Logo1.jpg 3 -
+/console/auth/reg_newuser.jsp 3 -
+/text/html 3 -
+/images/logo700wide.gif 2 http://www.philadelphia-reflections.com/directory.php
+/images/login_03.gif 3 -
+/rss.php 6 -
+/portfolio-management.html/experience.html 1 -
+/text/javascript 1 -
+/editor/fckeditor/editor/ 1 -
+/images/insurance_files/image040.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/admin/FCKeditor/editor/filemanager/connectors/aspx/connector.aspx 2 -
+/common/fckeditor/editor/ 1 -
+/images/insurance_files/image009.jpg 4 -
+/old/wp-admin/ 3 -
+/Error.aspx 3 -
+/media/uploadify/uploadify.php 1 -
+/editor/editor/filemanager/browser/default/connectors/aspx/connector.aspx 2 -
+/maxcms/ 3 -
+/investment-planning.html/andrew.html 1 -
+/images/login9/login_33.jpg 3 -
+/images/insurance_files/image021.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/images/insurance_files/image014.jpg 3 http://www.philadelphia-reflections.com/topic/103.htm
+/fck/editor/ 2 -
+/news-sitemap.xml 3 http://www.google.com
+/investment-planning.html/sitemap.html 1 -
+/bbs/ 9 -
+/clientscript/vbulletin_ajax_htmlloader.js 3 -
+/helpnew/faq/faq_simple_zh_CN.jsp 3 -
+/admin/template/article_more/config.htm 3 -
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/common/help/images/helplogo.gif 3 -
+/foosun/ 3 -
+/zblog/ 3 -
+/CHANGELOG.txt 3 -
+/blog/robots.txt 5 -
+/investmentplanning.html 7 -
+/lazycms/ 3 -
+/License.txt 9 -
+/investment-planning.html/index.html 1 -
+/images/insurance_files/image032.jpg 4 -
+/user_data/packages/miyabunnew/fckeditor/editor/fckeditor.html 2 -
+/ckeditor/ckfinder/ckfinder.html 3 -
+/images/retirementplanning/image006.jpg 13 http://www.georgefisheradvisors.com/capneed/explanation.htm
+/v1/plugins/editors/fckeditor/editor/fckeditor.html 2 -
+/app/login.jsp 3 -
+/common/help/images/helplogo_zh.gif 3 -
+/editor/ 9 -
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 1 -
+///////capneed/explanation.html 2 -
+/coremail/ 3 -
+/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/plus/heightsearch.php 3 -
+/system/Login.aspx 3 -
+/manager/fckeditor/editor/ 1 -
+/manager/html 4 -
+/tpl/user/tpl1/css/skins/blue.css 3 -
+/cms/ 9 -
+/plug// 3 -
+/components/com_pinboard/popup/popup.php 1 -
+/index.php 16 -
+/auth/login 6 -
+/portfolio-management.html/andrew.html 1 -
+/js/buttons.js 3 -
+/Ntalker/lawfirm.aspx 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 417
+46.4.94.226 123 123 6555663 20151117022550
+62.210.247.93 113 113 5834179 20151130040555
+46.118.119.48 40 40 343000 20151130161740
+37.115.191.181 37 37 317275 20151126012841
+72.76.243.86 29 31 263847 20151123140952
+64.79.100.40 28 28 256432 20151122073355
+64.79.100.22 28 28 256432 20151118090036
+64.79.100.13 28 28 256432 20151114175414
+64.79.100.58 28 28 256432 20151122103951
+178.137.89.181 27 27 231525 20151126012344
+202.46.48.204 1 1 19528 20151106061828
+108.19.112.244 1 13 219826 20151101124533
+202.46.53.51 1 1 8575 20151127201426
+69.58.178.56 10 10 105128 20151113222112
+70.240.37.123 2 26 439652 20151108192931
+188.40.112.210 1 1 8575 20151109040200
+157.56.1.83 1 1 38755 20151107101832
+176.31.24.29 1 1 8575 20151106065355
+88.81.34.181 1 2 12459 20151102025321
+202.46.51.179 1 1 8575 20151122214529
+87.244.136.37 2 2 17150 20151104110850
+193.201.224.32 2 2 17150 20151113044924
+209.198.12.162 1 1 38755 20151113160559
+202.46.51.132 1 1 9882 20151104034201
+202.46.49.61 1 1 5802 20151115111235
+108.36.251.207 1 1 38755 20151117105503
+69.196.253.30 2 2 86832 20151117130311
+202.46.53.207 2 2 44557 20151130043921
+202.46.55.141 1 1 8575 20151103162354
+104.231.72.20 1 1 38755 20151114124949
+167.114.156.198 17 17 347331 20151126224907
+45.55.133.237 1 1 8575 20151113171636
+24.167.176.230 1 1 38755 20151115202115
+80.82.65.82 1 1 38755 20151106202959
+202.46.55.175 1 1 8575 20151122042504
+202.46.57.19 1 1 19528 20151103032735
+117.208.57.252 1 1 38755 20151103031953
+202.46.53.59 1 1 5802 20151125074011
+108.0.90.117 2 2 77510 20151124114114
+46.118.152.18 6 6 51450 20151115104324
+45.35.5.212 1 1 38755 20151115190511
+204.79.180.38 1 1 38755 20151110020941
+199.30.25.232 0 12 211251 
+220.181.108.100 1 1 8575 20151123070017
+209.6.74.217 1 13 219826 20151122202721
+52.26.240.135 2 2 18457 20151117195318
+177.47.202.152 1 13 219826 20151106121641
+123.125.67.216 1 1 8575 20151127163450
+104.182.2.238 2 2 17150 20151108120542
+5.9.94.207 2 2 17150 20151123014212
+193.169.122.98 1 1 8575 20151129001517
+202.46.57.89 0 1 3884 
+202.46.48.134 1 1 12722 20151103043517
+202.46.52.105 1 1 15252 20151117164831
+109.173.98.23 7 7 60025 20151129020944
+202.46.52.174 1 1 14928 20151118054550
+202.46.52.118 1 1 8575 20151103113434
+203.133.171.104 1 1 14928 20151102021728
+38.100.21.65 9 10 100437 20151111044144
+104.143.73.24 1 1 8575 20151110212729
+5.9.145.132 1 1 8575 20151130082447
+184.97.214.69 1 1 38755 20151114175453
+66.249.88.41 2 2 17150 20151105142111
+73.189.234.183 8 29 446072 20151129002013
+93.109.249.230 2 2 17150 20151109115026
+117.206.57.204 1 12 218089 20151103082627
+202.46.55.17 1 1 5789 20151109135640
+79.143.186.170 9 9 95469 20151110103205
+54.85.194.160 5 5 193775 20151123012425
+169.199.168.201 1 2 12459 20151118153519
+202.46.52.72 1 1 7552 20151130004004
+111.13.102.133 1 1 8575 20151126234658
+202.46.53.44 1 1 8575 20151119134842
+180.180.67.227 1 1 45128 20151106015742
+96.61.84.170 2 14 258581 20151130132001
+85.10.210.199 1 1 8575 20151114224209
+65.115.222.227 1 1 38755 20151127114803
+50.251.29.57 15 15 193707 20151125122300
+71.170.249.158 1 1 38755 20151115124120
+46.254.200.66 1 1 38755 20151105102633
+176.126.252.11 1 1 8575 20151112224022
+54.91.16.247 5 5 0 20151129134419
+208.72.116.170 1 1 2143 20151104003402
+45.55.134.7 1 1 8575 20151130014830
+202.46.48.91 0 1 3884 
+108.209.167.58 1 1 38755 20151116021924
+202.46.50.80 1 1 8575 20151123235922
+62.233.42.198 2 2 17150 20151103050452
+80.79.120.116 1 1 12258 20151104000853
+202.46.48.124 2 2 13370 20151117174232
+202.46.48.143 1 1 0 20151122185302
+68.5.214.221 1 13 219826 20151103165422
+66.249.89.115 1 1 0 20151121002556
+202.46.58.76 1 1 13622 20151102181808
+202.46.58.90 1 1 9298 20151101102454
+95.211.238.122 7 7 77012 20151118103910
+202.46.54.144 1 1 7591 20151127175419
+67.170.153.254 9 9 348795 20151129224536
+66.249.92.115 1 1 0 20151107031056
+121.58.232.35 1 1 38755 20151118104611
+40.77.167.38 0 1 3328 
+54.210.135.61 2 2 47330 20151109173322
+104.156.230.231 1 1 8575 20151105150051
+191.96.206.203 1 1 38755 20151116234910
+89.144.46.162 1 1 11478 20151104000948
+202.46.58.85 1 1 38755 20151122202937
+93.81.110.235 1 7 66163 20151112043428
+202.46.57.173 1 1 9113 20151105042136
+202.46.52.143 1 1 6651 20151118082202
+66.76.8.237 1 1 38755 20151108205714
+131.253.38.67 4 4 34300 20151126063902
+202.46.48.11 1 1 8575 20151121070148
+24.107.8.195 5 5 193775 20151129170030
+24.220.252.97 2 2 123444 20151114223234
+142.156.1.223 1 1 38755 20151116192744
+191.33.90.182 0 2 52560 
+198.27.80.144 4 4 140540 20151118092920
+198.49.125.35 1 1 38755 20151123230311
+202.46.49.65 1 1 8575 20151112081528
+180.211.187.249 2 17 271289 20151108014202
+199.30.24.174 0 12 211251 
+188.165.198.130 7 7 78319 20151117154008
+202.46.55.170 1 1 8575 20151119024309
+202.46.56.93 2 2 17686 20151107112456
+202.46.55.176 1 1 7552 20151118013646
+172.56.2.237 1 8 73044 20151117161129
+107.189.60.74 1 1 8575 20151107015354
+202.46.54.196 1 1 49782 20151115173230
+38.100.21.68 10 11 107492 20151121004103
+49.144.184.137 1 1 38755 20151123020429
+185.71.0.214 1 1 9882 20151101184419
+107.173.223.101 0 1 27491 
+148.251.124.42 2 2 17150 20151130082448
+202.46.51.175 1 1 8575 20151125114322
+68.134.118.108 1 1 38755 20151128092350
+5.9.106.81 1 1 7591 20151129113229
+185.35.20.186 1 1 8575 20151103174523
+46.165.242.204 1 1 8575 20151115165644
+98.118.158.26 1 1 38755 20151112141301
+111.13.102.132 1 1 8575 20151123060630
+172.251.170.22 1 2 62277 20151122142921
+24.209.15.174 3 19 283740 20151112091518
+52.9.22.89 1 1 8575 20151102081748
+202.46.53.118 1 1 8575 20151123062053
+104.156.231.254 2 2 17150 20151130035645
+144.76.201.69 2 2 47330 20151130082447
+23.226.221.81 1 1 9111 20151104003344
+177.55.146.114 1 13 219826 20151108132351
+46.229.170.197 3 3 25725 20151129231305
+202.46.49.194 1 1 0 20151114091000
+202.46.57.182 2 2 17150 20151115032022
+92.36.158.42 1 13 219826 20151107113624
+202.46.48.138 1 1 8575 20151120060403
+107.197.51.46 1 2 32485 20151130064040
+54.157.5.124 1 1 8575 20151112092831
+75.158.172.233 1 1 38755 20151114132502
+52.34.179.170 2 2 18457 20151124165206
+49.180.151.253 1 1 38755 20151104193641
+163.172.7.229 5 5 42875 20151125105959
+202.46.56.189 1 1 8575 20151128162313
+131.253.25.193 0 12 211251 
+45.32.130.87 1 1 8575 20151120085014
+78.46.156.169 2 2 17150 20151122185429
+52.33.212.31 2 2 18457 20151120111813
+202.46.57.29 1 1 10057 20151103171818
+202.46.49.201 1 1 8575 20151115095640
+78.158.11.226 2 2 20053 20151126202842
+202.46.50.15 1 1 9111 20151113010948
+216.99.158.132 1 1 8575 20151127193517
+23.92.24.130 1 1 0 20151126145906
+183.171.25.159 1 1 38755 20151127013658
+191.189.9.187 2 2 17150 20151121230459
+202.46.52.104 1 1 9111 20151111215308
+202.46.51.21 1 1 8575 20151117021904
+183.60.244.46 4 4 34300 20151121234825
+202.46.54.98 1 1 33500 20151121090453
+54.243.138.22 1 1 8575 20151113075830
+24.13.132.10 3 3 162199 20151103211607
+45.55.135.226 1 1 8575 20151105223952
+216.113.160.77 2 15 233379 20151102205252
+82.136.115.77 1 1 8575 20151115140924
+23.239.161.82 1 1 8575 20151103235050
+203.133.168.101 2 2 47330 20151102113817
+223.207.241.202 1 1 8575 20151129001526
+5.9.60.46 2 2 75083 20151105111050
+178.140.85.118 1 2 12459 20151102025322
+202.46.51.178 1 1 12258 20151124140621
+201.42.216.163 1 13 219826 20151101093006
+191.33.27.2 1 7 109472 20151104192816
+198.23.202.74 1 1 8575 20151105181010
+80.79.119.235 2 2 0 20151105185743
+46.208.207.125 1 1 38755 20151118035638
+157.56.1.76 1 1 38755 20151108144714
+202.46.51.193 1 1 8575 20151107201546
+202.46.54.204 1 1 9889 20151113003921
+195.154.227.118 1 1 8575 20151120171127
+65.210.52.82 4 20 296183 20151112115024
+62.233.34.223 2 2 17150 20151105064851
+202.46.52.60 1 1 31611 20151111131821
+67.55.84.212 2 2 0 20151116163423
+104.131.8.192 7 7 78319 20151128162835
+105.168.22.102 1 13 219826 20151107195042
+202.46.55.132 0 1 3884 
+45.32.129.1 1 1 8575 20151107045358
+65.55.210.26 0 12 211251 
+136.243.61.196 1 1 8575 20151127183431
+71.178.11.33 2 9 82342 20151118210759
+71.127.164.165 4 19 394733 20151119204236
+202.46.49.148 1 1 0 20151123054602
+66.87.82.246 1 13 219826 20151114121110
+173.160.106.225 1 7 66163 20151103115134
+216.146.138.240 1 1 5802 20151104003324
+5.151.198.134 1 1 38755 20151101195831
+202.46.57.39 1 1 17658 20151117234851
+50.248.12.210 1 1 38755 20151121201049
+196.217.65.148 1 1 8575 20151103200748
+41.89.10.241 1 1 38755 20151117012643
+96.126.98.111 1 1 0 20151126145850
+136.243.17.161 1 1 8575 20151117215320
+80.78.253.9 1 1 8575 20151110113444
+202.46.55.67 1 1 5802 20151106043627
+104.175.76.30 1 1 38755 20151117082347
+220.181.108.82 1 1 8575 20151123045747
+54.80.106.209 1 1 8575 20151123223731
+202.46.52.61 1 1 8575 20151124195356
+179.176.102.244 1 1 8575 20151119021126
+192.99.9.164 1 1 8575 20151107082101
+202.46.48.29 2 2 21174 20151130004006
+94.103.42.239 1 1 9882 20151104000951
+210.245.92.212 1 1 8575 20151121185828
+202.46.53.199 1 1 11654 20151117230333
+77.244.254.230 1 1 8575 20151123231001
+202.46.58.77 1 1 10057 20151105004102
+202.46.57.22 2 2 23503 20151127164420
+202.46.50.182 1 1 2143 20151102202415
+202.46.54.22 1 1 2143 20151104064740
+202.46.53.195 1 1 7828 20151116070006
+107.178.195.229 1 1 8575 20151102140909
+202.46.57.187 1 1 8575 20151129162233
+202.46.53.90 1 1 7552 20151118013645
+71.126.244.11 4 19 394733 20151128094128
+202.46.53.152 1 1 5802 20151115111233
+52.0.89.236 2 2 17150 20151114112710
+54.167.88.184 1 1 8575 20151120173259
+37.115.154.109 9 9 77175 20151113220419
+142.205.241.254 1 1 38755 20151125131840
+202.46.49.209 1 1 11478 20151102092953
+24.91.137.75 1 1 38755 20151117161717
+185.92.73.100 2 2 17150 20151107051812
+178.137.91.140 3 3 25725 20151111190541
+202.125.102.33 3 3 116265 20151125030312
+196.26.206.33 1 1 38755 20151118101005
+65.55.210.133 0 12 211251 
+86.143.172.146 1 9 171545 20151111172910
+123.125.67.150 1 1 8575 20151128164428
+202.46.58.96 1 1 5802 20151119000910
+202.46.49.113 1 1 8575 20151102130247
+65.78.34.187 2 2 123444 20151123171327
+50.24.55.207 1 1 38755 20151104123654
+202.46.58.27 1 1 8575 20151126010122
+202.46.58.56 1 1 8575 20151107054819
+204.8.156.142 1 1 8575 20151127093717
+91.121.79.180 4 4 140540 20151104083150
+174.63.33.210 4 20 292315 20151129171855
+202.46.49.136 1 1 8575 20151126153050
+146.120.166.79 1 1 9882 20151114085956
+151.15.9.75 1 12 218089 20151105061529
+12.199.98.28 3 19 283740 20151109124705
+202.46.48.89 1 1 8575 20151113205134
+66.102.9.41 1 1 8575 20151111091855
+202.46.53.159 1 1 8575 20151127092236
+71.84.222.46 1 1 38755 20151104214931
+202.46.55.130 1 1 0 20151109205121
+45.55.229.135 7 7 78319 20151119183605
+123.125.68.61 1 1 8575 20151125000755
+202.46.58.189 1 1 8575 20151129173641
+202.46.52.141 1 1 38755 20151128090704
+128.69.172.193 1 2 16142 20151110072346
+38.68.18.65 1 1 8575 20151126173408
+134.124.160.12 1 1 38755 20151105190305
+202.46.55.83 1 1 12258 20151106075924
+202.46.58.92 1 1 21444 20151106105041
+202.46.53.192 1 1 9113 20151103224030
+202.46.56.204 1 1 8575 20151122091139
+107.178.194.125 1 1 8575 20151105144601
+202.46.52.168 1 1 8575 20151125203951
+50.252.139.173 3 3 77510 20151105150615
+209.0.146.172 20 22 216504 20151115105916
+202.46.51.191 0 1 3884 
+68.100.120.55 1 1 38755 20151128132448
+202.46.49.145 1 1 19018 20151113111245
+176.8.244.238 9 9 77175 20151130101930
+45.30.176.249 1 1 38755 20151116170958
+202.46.58.55 1 1 9123 20151108105511
+202.46.51.115 1 1 8575 20151111072924
+173.232.20.107 1 1 38755 20151116082404
+176.77.24.69 1 7 66163 20151110101229
+169.0.81.244 1 1 38755 20151104063113
+107.23.56.124 3 3 25725 20151124083704
+202.46.54.17 1 1 11478 20151103070315
+166.137.252.59 1 13 242494 20151130111135
+91.200.83.81 1 1 9882 20151103070447
+98.230.164.77 1 1 38755 20151129160406
+95.128.43.164 1 1 8575 20151111040102
+220.181.108.94 1 1 8575 20151123060036
+61.135.190.104 1 1 8575 20151129053004
+107.21.1.8 1 1 8575 20151125153036
+54.83.126.87 20 20 595063 20151110112816
+202.46.54.28 1 1 6651 20151119052006
+111.13.102.6 1 1 8575 20151130022624
+108.82.83.106 1 1 9123 20151104003316
+216.211.175.4 1 1 0 20151116024859
+108.223.169.235 2 26 439652 20151130064727
+203.133.171.19 6 6 63391 20151103151123
+183.60.244.49 10 10 85750 20151121235114
+54.227.65.125 1 2 12459 20151127020121
+162.221.184.49 1 1 8575 20151105181013
+69.58.178.57 10 10 105128 20151115214605
+64.53.62.35 1 1 8575 20151114110726
+120.28.99.174 1 1 38755 20151125053744
+162.254.85.164 1 1 13370 20151104000948
+202.46.56.197 1 1 31611 20151110194143
+199.119.233.148 1 1 38755 20151118160703
+71.175.124.145 4 21 295264 20151115202211
+202.46.53.16 1 1 9111 20151101234747
+204.85.191.30 1 1 8575 20151128122921
+207.90.2.10 5 5 42875 20151129041443
+202.46.51.27 1 1 8575 20151107092235
+75.151.241.233 2 2 123444 20151117143028
+187.113.116.140 0 4 57794 
+123.125.68.43 1 1 8575 20151123234800
+70.113.221.85 1 1 38755 20151115205424
+223.95.116.172 7 7 78319 20151113165314
+202.46.48.12 0 1 3884 
+202.46.50.186 1 1 8575 20151107113239
+202.46.53.205 1 1 8575 20151116031749
+37.157.195.196 1 1 8575 20151102101315
+202.46.50.121 1 1 8575 20151113105705
+94.190.90.94 1 1 8575 20151115113549
+187.39.84.214 1 13 219826 20151108165536
+202.46.55.148 1 1 7552 20151130054406
+96.46.58.147 1 1 7828 20151104000951
+108.39.233.100 1 1 38755 20151124005113
+202.46.52.16 1 1 38755 20151130043922
+80.120.67.26 1 1 8575 20151112174549
+202.46.52.66 1 2 12459 20151117172939
+62.233.34.148 2 2 17150 20151103170110
+85.52.137.82 1 13 219826 20151108110327
+202.46.49.63 1 1 21444 20151107150033
+130.185.139.213 2 2 17150 20151109031743
+173.14.34.233 1 1 38755 20151118153205
+52.20.151.197 1 1 8575 20151104132647
+149.5.113.144 1 1 7552 20151104003334
+202.46.51.209 1 1 9123 20151110004355
+76.230.61.242 2 10 143940 20151120112025
+37.1.202.156 2 2 0 20151102193221
+46.118.118.215 1 1 8575 20151112055044
+203.133.169.167 1 1 8575 20151119030420
+121.97.142.149 1 1 38755 20151122103948
+202.46.50.151 1 1 5625 20151115195739
+202.46.54.99 1 1 8575 20151114101630
+104.236.110.18 7 7 78319 20151103184015
+71.7.181.145 2 2 7591 20151104003403
+99.100.188.198 1 1 38755 20151118171724
+202.46.55.39 1 1 8575 20151125002540
+202.46.53.52 1 1 9882 20151104102816
+45.32.129.200 1 1 8575 20151114000540
+202.46.49.192 1 1 8575 20151127221214
+202.46.48.126 1 1 192240 20151129182744
+202.46.54.20 1 1 8575 20151107142214
+85.93.89.74 14 14 156638 20151117150153
+203.133.168.41 1 1 8575 20151118071033
+202.46.49.66 1 1 12722 20151102060500
+199.187.122.91 3 3 51186 20151102152608
+202.46.51.12 1 1 9889 20151115220002
+72.161.249.66 1 1 38755 20151112230241
+82.3.220.42 1 1 38755 20151101195657
+202.46.50.98 1 1 8575 20151101050454
+24.209.43.171 1 1 38755 20151126192719
+46.118.155.216 5 5 42875 20151122111421
+202.46.56.19 2 2 47330 20151126184207
+157.56.2.203 2 2 20833 20151127220849
+146.185.234.48 12 12 546862 20151130173320
+142.4.218.156 12 12 120758 20151101061045
+31.15.205.12 2 2 17150 20151106065640
+160.94.186.18 1 1 38755 20151102162447
+202.46.48.210 1 1 8575 20151121172528
+192.240.198.85 2 2 20053 20151122103938
+173.76.43.202 1 13 219826 20151108195031
+202.46.55.134 1 1 33923 20151116040407
+202.46.53.113 1 1 8575 20151129185651
+202.46.57.123 1 1 8575 20151110185101
+193.201.225.113 1 1 8575 20151129061832
+202.46.53.47 1 1 9298 20151102001747
+99.238.114.8 1 1 8575 20151101220953
+52.91.59.33 2 2 18457 20151109104550
+85.93.29.10 1 1 14928 20151104000853
+108.34.152.90 1 4 65019 20151122133847
+85.164.59.104 4 23 393651 20151107174917
+123.125.71.30 1 1 8575 20151123044037
+65.18.195.61 1 1 8575 20151104003239
+74.80.177.247 1 1 8575 20151126173407
+131.253.25.163 0 12 211251 
+202.46.53.156 1 1 8575 20151114080450
+188.126.91.45 2 2 11341 20151123024801
+187.126.51.67 1 1 8575 20151118175711
+202.46.55.172 1 1 8575 20151126235958
+73.224.34.43 1 1 38755 20151117073111
+67.55.87.68 2 2 0 20151111014705
+159.203.123.154 2 2 17150 20151122123849
+131.253.25.136 0 12 211251 
+54.190.147.203 2 2 17150 20151130090459
+202.46.58.185 1 1 8575 20151110200759
+202.46.56.91 2 2 17150 20151116161130
+173.212.118.59 1 13 219826 20151117070415
+202.46.50.92 1 1 8575 20151111065043
+45.55.164.167 7 7 78319 20151113185133
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20151101 24 49 735111 13
+20151102 32 55 719903 26
+20151103 39 80 1261047 25
+20151104 34 58 941832 27
+20151105 24 35 561687 18
+20151106 21 34 536233 11
+20151107 25 68 1073628 20
+20151108 145 220 8495475 24
+20151109 15 43 675950 11
+20151110 40 47 933956 14
+20151111 23 44 601130 12
+20151112 19 58 922392 12
+20151113 90 90 2983002 19
+20151114 61 75 1684482 17
+20151115 57 87 1826069 19
+20151116 16 17 387753 14
+20151117 61 80 2080346 21
+20151118 56 57 807829 20
+20151119 20 35 572937 11
+20151120 9 29 416523 7
+20151121 56 58 634321 20
+20151122 79 119 1508676 20
+20151123 81 83 892197 29
+20151124 16 16 232730 12
+20151125 52 52 598749 18
+20151126 45 45 633544 17
+20151127 15 28 406819 15
+20151128 17 32 615042 8
+20151129 29 67 1182872 19
+20151130 43 80 1610669 20
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 4
+5mn-15mn 2
+15mn-30mn 6
+2mn-5mn 14
+30s-2mn 20
+0s-30s 461
+30mn-1h 12
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 62
+/ 468 3867325 297 272
+/sitemap.xml 175 11638900 22 15
+/capneed/ 98 3681725 94 85
+/about.html 53 523746 6 15
+/disclaimer.html 40 490320 9 8
+/portfolio-management.html 39 447642 5 8
+/experience.html 37 552336 4 5
+/investment-planning.html 36 481320 2 5
+/sitemap.html 35 266152 4 7
+/contact.html 28 255444 3 7
+/forexfactory.htm 3 6684 1 0
+/retirementplanningX.php 2 4734 0 0
+/experience-qualificationsX.php 4 39556 2 2
+/awstats.netsol.bkp/1308/awstats.996498.1308.unknownos.html 2 13302 2 2
+/recalci/recalci.htm 2 85874 0 0
+/cash-choices/cash-choices.htm 7 221277 3 4
+/recalci/index.php 17 199490 3 6
+/awstats.netsol.bkp/1308/awstats.996498.1308.browserdetail.html 1 13768 0 0
+/realestateinvestmentcalculator.html 3 135384 1 2
+/awstats.netsol.bkp/1308/awstats.996498.1308.unknownip.html 1 21420 0 1
+/awstats.netsol.bkp/1308/awstats.996498.1308.urlexit.html 2 38036 1 1
+/rss.xml 2 384480 1 1
+/portfolio-managementX.html 2 23308 1 1
+/cms.php 2 0 0 2
+/form.php 3 0 0 0
+/king-lear-quote.html 19 40717 4 6
+//recalci/index.php 4 172420 2 0
+//capneedi/index.php 4 108660 0 2
+/retirement-planningX.html 3 38166 2 2
+/awstats.netsol.bkp/1308/awstats.996498.1308.lasthosts.html 3 64332 2 2
+/awstats.netsol.bkp/1308/awstats.996498.1308.html 1 85956 0 0
+/awstats.netsol.bkp/1308/awstats.996498.1308.lastrobots.html 4 36452 2 3
+/awstats.netsol.bkp/1308/awstats.996498.1308.osdetail.html 1 8763 0 0
+/google480059154b5c83dc.html 4 0 2 2
+/awstats.netsol.bkp/1308/awstats.996498.1308.refererse.html 2 11832 0 0
+/investment-planningX.html 3 40866 2 2
+/financial-planningX.html 7 65086 5 5
+/experience-workX.php 2 19622 0 0
+/cash/cash.htm 7 348474 1 1
+/awstats.netsol.bkp/1308/awstats.996498.1308.urlentry.html 4 78112 2 2
+/portfolio-rebalance/portfolio-rebalance.htm 5 307015 2 1
+/awstats.netsol.bkp/1308/awstats.996498.1308.keyphrases.html 2 11578 1 1
+/awstats.netsol.bkp/1308/awstats.996498.1308.unknownbrowser.html 2 11250 1 1
+/calc/buying/buying.htm 2 67846 1 1
+/awstats.netsol.bkp/1308/awstats.996498.1308.refererpages.html 2 37820 0 0
+/awstats.netsol.bkp/1308/awstats.996498.1308.allhosts.html 1 21438 0 0
+/portfolio-rebalance-fewest/portfolio-rebalance-fewest.htm 2 101906 0 0
+/financial-planning.html 26 236886 6 9
+/awstats.netsol.bkp/1308/awstats.996498.1308.keywords.html 1 6234 0 0
+/awstats.netsol.bkp/1308/awstats.996498.1308.alldomains.html 1 5863 0 0
+/utilities.htm 2 35316 1 2
+/capneed/index.htm 5 155020 2 4
+/aboutX.html 3 30171 2 2
+/andrew.html 20 151820 4 6
+/awstats.netsol.bkp/1308/awstats.996498.1308.session.html 1 4283 0 1
+/calc/selling/selling.htm 4 134000 1 1
+/capneedi/index.php 18 147162 3 3
+/experienceX.php 1 9456 0 0
+/recalci/ 3 22656 3 3
+/capneedi/ 4 23208 4 4
+/capneed/explanation.htm 8 677512 2 3
+/experienceX.html 1 15252 1 1
+END_SIDER

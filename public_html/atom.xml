@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom">
+	<!--                                       -->
+	<!--     George Fisher Advisors LLC        -->
+	<!--             ATOM feed                 -->
+	<!--                                       -->
+<title>George Fisher Advisors LLC</title>
+<subtitle>Comprehensive Financial Planning</subtitle>
+<icon>http://www.georgefisheradvisors.com/images/RSSimage.jpg</icon>
+<link rel="self" href="http://www.georgefisheradvisors.com/atom.xml" />
+<link href="http://www.georgefisheradvisors.com/" />
+<id>tag:www.georgefisheradvisors.com,2006-05-18:%2Findex.php</id>
+<author>
+	<name>George R. Fisher IV</name>
+	<email>george@georgefisheradvisors.com</email>
+	<uri>http://www.georgefisheradvisors.com/</uri>
+</author>
+<category term="finance" />
+<category term="financial planning" />
+<category term="investments" />
+<category term="insurance" />
+<category term="estate planning" />
+<category term="tax planning" />
+<category term="retirement planning" />
+<rights>(c) Copyright 2004 - 2008 George Fisher Advisors LLC All rights reserved.</rights>
+<updated>2006-07-31T17:50:07-04:00</updated>
+		<!--                                   -->
+		<!--                                   -->
+		<entry>
+			<title>George Fisher Advisors LLC</title>
+			<link href="http://www.georgefisheradvisors.com/" />
+			<id>tag:www.georgefisheradvisors.com,2006-07-03:%2Findex.php</id>
+			<published>2006-07-03T16:10:52-04:00</published>
+			<updated>2006-07-27T17:50:07-04:00</updated>
+			<summary>Comprehensive Financial Planning by a planner with decades of Wall Street experience but with no conflict of interest (i.e., fee-only). Only your needs matter and they are paramount</summary>
+		</entry>
+</feed>
